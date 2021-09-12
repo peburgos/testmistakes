@@ -1,7 +1,7 @@
 main:
   - title: "Trabalhos"
     url: /posts/
-  - title: "Blog"
+  - title: "Artigos"
     url: /posts/
   - title: "Sobre"
     url: /about/
