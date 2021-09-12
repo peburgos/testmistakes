@@ -29,8 +29,9 @@ feature_row:
     btn_class: "btn--inverse"
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
     title: "Placeholder 3"
+    alt: "placeholder image 2"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-     url: "#test-link"
+    url: "#test-link"
     btn_label: "VER MAIS"
     btn_class: "btn--inverse"
 ---
