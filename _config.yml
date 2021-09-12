@@ -26,10 +26,6 @@ search: false
 
 locale: "pt-BR"
 
-breadcrumb: true
-breadcrumb_home_label : "Página Inicial"
-breadcrumb_separator  : "/"
-
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
