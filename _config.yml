@@ -23,7 +23,6 @@ twitter_username: username
 github_username: username
 minimal_mistakes_skin: dark
 search: false
-site.locale: pt-br
 
 # Build settings
 markdown: kramdown
