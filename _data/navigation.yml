@@ -2,8 +2,6 @@ main:
   - title: "Trabalhos"
     url: /posts/
   - title: "Blog"
-    url: /posts/
-  - title: "Categorias"
     url: /categories/
   - title: "Sobre"
     url: /about/
