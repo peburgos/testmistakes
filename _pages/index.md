@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Oi!"
+title: "Oi! Me chamo Pedro,"
 layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/unsplash-image-1.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "Eu planejo experiências digitais para melhorar e facilitar a vida dos usuários."
+excerpt: "e planejo experiências digitais para melhorar e facilitar a vida dos usuários."
 
 ---
 intro: 
