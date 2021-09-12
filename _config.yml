@@ -26,6 +26,8 @@ search: false
 
 locale: "pt-BR"
 
+url: https://www.peburgos.github.io
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
