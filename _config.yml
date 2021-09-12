@@ -14,6 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Pedro Burgos
+title_separator: "-"
+
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -21,7 +23,12 @@ description: >- # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 minimal_mistakes_skin: dark
 search: false
-locale: pt-BR
+
+locale: "pt-BR"
+
+breadcrumb: true
+breadcrumb_home_label : "Página Inicial"
+breadcrumb_separator  : "/"
 
 # Build settings
 markdown: kramdown
