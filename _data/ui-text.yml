@@ -279,7 +279,7 @@ pt-BR:
   page                       : "Página"
   pagination_previous        : "Anterior"
   pagination_next            : "Próxima"
-  breadcrumb_home_label      : "Home"
+  breadcrumb_home_label      : "Página Inicial"
   breadcrumb_separator       : "/"
   menu_label                 :
   search_label               : "Buscar"
