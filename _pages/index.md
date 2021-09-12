@@ -7,7 +7,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/unsplash-image-1.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "Oi! Eu planejo experiências digitais que melhoram a vida dos usuários."
+excerpt: "Oi! Eu planejo experiências digitais para **melhorar e facilitar a vida dos usuários.**"
 
 ---
   
