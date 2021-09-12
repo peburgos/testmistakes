@@ -32,7 +32,7 @@ feature_row:
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "#test-link"
     btn_label: "VER MAIS"
-    btn_class: "btn"
+    btn_class: "btn-inverse"
 ---
 
 {% include feature_row id="intro" type="center" %}
