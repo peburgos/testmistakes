@@ -18,7 +18,7 @@ feature_row:
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "#test-link"
     btn_label: "VER MAIS"
-    btn_class: "btn--info"
+    btn_class: "btn--inverse"
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 2"
@@ -32,7 +32,7 @@ feature_row:
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "#test-link"
     btn_label: "VER MAIS"
-    btn_class: "btn--secundary"
+    btn_class: "btn"
 ---
 
 {% include feature_row id="intro" type="center" %}
