@@ -25,6 +25,8 @@ search: false
 
 locale: "pt-BR"
 
+breadcrumb: true
+
 url: https://www.peburgos.github.io
 
 # Build settings
