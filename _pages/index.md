@@ -2,6 +2,13 @@
 permalink: /
 title: "Página Inicial"
 layout: splash
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/unsplash-image-1.jpg
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+excerpt: "Oi! Eu planejo experiências digitais que melhoram a vida dos usuários."
+
 ---
   
 
