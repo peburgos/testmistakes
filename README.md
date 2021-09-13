@@ -1,20 +1,18 @@
 # Meu site pessoal/portfolio
 
-Fiz esse projeto para conseguir organizar e juntar em um só cantos todos os meus projetos/ideais/reflexões sobre UX, design, tecnologia, e as vezes outros assuntos mais aleatórios como cultura, política e psicologia.
+Fiz esse projeto para tentar organizar e juntar em um só canto todos os meus projetos/ideais/reflexões sobre UX, design, tecnologia, e as vezes outros assuntos mais aleatórios como cultura, psicologia, política e produtividade.
 
-Criei ele utilizando como base o tema [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes) feito em Jekyll por ser bastante flexível, fácil de gerenciar e permitir usar o Github Pages como host.
+Criei ele utilizando como base o tema [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes) feito em Jekyll por ser bastante flexível, fácil de gerenciar e permitir usar o Github Pages para o hosting.
 
-Utilizar o Github Pages como site/pessoal portfólio faz com que 
+## Como criar um
 
-## Como criar 
+(criar artigo no site detalhando o passo a passo)
 
-Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
-
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
+De forma geral, [**clique nesse template**](https://github.com/mmistakes/mm-github-pages-starter/generate) para  criar um repositório usando como base o [tema](https://github.com/mmistakes/minimal-mistakes). O repositório vai vir com o mínimo de arquivos necessários para você começar a customizar o seu site. A partir daí, altere o conteúdo, cor do tema e outras configurações [necessárias](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
 
 ---
 
-### Troubleshooting
+## Agradecimentos
 
 If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
 
