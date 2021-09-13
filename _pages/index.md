@@ -2,7 +2,7 @@
 title: "Oi, me chamo Pedro Burgos"
 layout: splash
 permalink: /
-date: 2016-03-23T11:48:41-04:00
+date: 2016-09-12T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
