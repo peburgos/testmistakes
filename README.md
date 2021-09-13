@@ -10,8 +10,8 @@ Criei ele utilizando como base o tema [Minimal Mistakes](https://github.com/mmis
 (criar artigo no site detalhando o passo a passo)
 
 De forma geral, [**clique nesse template**](https://github.com/mmistakes/mm-github-pages-starter/generate) para  criar um repositório usando como base o [tema](https://github.com/mmistakes/minimal-mistakes). O repositório vai vir com o mínimo de arquivos necessários para você começar a customizar o seu site. A partir daí, altere o conteúdo, cor do tema e outras configurações [necessárias](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
-
-
+  
+  
 ---
 
 ## Agradecimentos
