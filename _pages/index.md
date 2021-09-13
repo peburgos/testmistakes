@@ -22,8 +22,8 @@ feature_row:
     btn_class: "btn--inverse"
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    alt: "Design como ferramenta para melhorar a sociedade"
-    title: "Placeholder 2"
+    alt: "placeholder image"
+    title: "Design como ferramenta para melhorar a sociedade"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "#test-link"
     btn_label: "VER MAIS"
