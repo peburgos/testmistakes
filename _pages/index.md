@@ -3,11 +3,8 @@ title: "Oi, me chamo Pedro Burgos"
 layout: splash
 permalink: /
 date: 2016-09-12T11:48:41-04:00
-classes:
-  - landing
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.3"
+  overlay_filter: linear-gradient(rgba(255, 0, 0, 0.5), rgba(0, 255, 255, 0.5))
   overlay_image: /assets/images/unsplash-image-1.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
