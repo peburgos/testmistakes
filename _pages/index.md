@@ -4,8 +4,7 @@ layout: splash
 permalink: /
 date: 2016-09-12T11:48:41-04:00
 header:
-  overlay_filter: linear-gradient(rgba(255, 0, 0, 0.5), rgba(0, 255, 255, 0.5))
-  overlay_image: /assets/images/unsplash-image-1.jpg
+  overlay_filter: linear-gradient(rgba(255, 0, 0, 0.5), rgba(0, 255, 255, 0.5)
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
     - label: "Conheça meu trabalho"
