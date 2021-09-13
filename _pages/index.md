@@ -5,7 +5,7 @@ permalink: /
 date: 2016-09-12T11:48:41-04:00
 header:
   overlay_image: /assets/images/unsplash-image-1.jpg
-  overlay_filter: linear-gradient(45deg, rgba(255, 0, 0, 1), rgba(0, 255, 255, 1))
+  overlay_filter: linear-gradient(45deg, #B3FFAB, #12FFF7)
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
     - label: "CONHEÇA MEU TRABALHO"
