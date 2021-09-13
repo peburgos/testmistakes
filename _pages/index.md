@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/unsplash-image-1.jpg
   overlay_filter: linear-gradient(45deg, rgb(84, 51, 255), rgb(32, 189, 255), rgb(165, 254, 203))
   actions:
-    - label: "VEJA MEUS PROJETOS EM UX"
+    - label: "VER MEUS PROJETOS EM UX"
       url: "https://unsplash.com"
 excerpt: "e planejo experiências digitais que melhoram e facilitam a vida dos usuários!"
 intro: 
