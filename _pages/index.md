@@ -8,7 +8,7 @@ header:
   overlay_filter: linear-gradient(rgba(255, 0, 0, 1), rgba(0, 255, 255, 1)
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
-    - label: "Conheça meu trabalho"
+    - label: "CONHEÇA MEU TRABALHO"
       url: "https://unsplash.com"
 excerpt: "e planejo experiências digitais que melhoram e facilitam a vida dos usuários!"
 intro: 
