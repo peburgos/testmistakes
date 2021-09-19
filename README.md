@@ -21,7 +21,7 @@ Todo código original do Minimal Mistakes está coberto pela MIT License, [confo
 Todo o conteúdo original criado por mim **nos artigos do blog** desse repositório estão sobre a licença Creative Commons
 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a></p> 
 
-Isso significa que você pode compartilhar, utilizar, adaptar e modificar esse conteúdo contanto que cite o autor original, que não seja utilizado para propósitos comerciais e que também utilize essa mesma licença CC BY-NC-SA 4.0.
+Isso significa que você pode compartilhar, utilizar, adaptar e modificar o conteúdo postado no blog contanto que cite o autor original, que não seja utilizado para propósitos comerciais e que também utilize essa mesma licença CC BY-NC-SA 4.0.
 
 ## Agradecimentos
 
