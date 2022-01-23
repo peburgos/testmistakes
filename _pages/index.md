@@ -1,10 +1,10 @@
 ---
-title: "Oi! Me chamo Pedro Burgos"
+title: "Home | Pedro Burgos "
 layout: splash
 permalink: /
 date: 2016-09-12T11:48:41-04:00
 intro:
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin.'
+  - excerpt: 'Oi, me chamo Pedro Burgos. Aqui deixo guardado algumas das minhas ideias e projetos, '
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
@@ -29,7 +29,6 @@ feature_row:
     btn_label: "VER MAIS"
     btn_class: "btn--inverse"
 ---
-testando texto fora do intro
 
 {% include feature_row id="intro" type="center" %}
 
