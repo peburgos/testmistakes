@@ -3,13 +3,6 @@ title: "Oi! Me chamo Pedro Burgos"
 layout: splash
 permalink: /
 date: 2016-09-12T11:48:41-04:00
-header:
-  image: /assets/images/unsplash-image-1.jpg?width=100
-  image_description: "A description of the image"
-  overlay_filter: linear-gradient(45deg, rgb(84, 51, 255), rgb(32, 189, 255), rgb(165, 254, 203))
-  actions:
-    - label: "More Info"
-      url: "https://unsplash.com"
 intro:
   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin.'
 feature_row:
