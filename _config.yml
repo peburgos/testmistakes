@@ -69,9 +69,13 @@ author:
   bio    : "My awesome biography constrained to a sentence or two goes here."
   location : "Fortaleza, CE"
   links:
+    - label: "Behance"
+      icon: "fas fa-fw fa-behance"
+      url: "https://www.behance.net/pburgos"
     - label: "Linkedin"
-      icon: "fas fa-fw fa-linkin"
+      icon: "fas fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/pe-burgos/"
+
 
 defaults:
   # _posts
