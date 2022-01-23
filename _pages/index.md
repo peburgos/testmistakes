@@ -12,7 +12,6 @@ header:
       url: "https://unsplash.com"
 intro:
   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin.'
-  testando texto fora do intro
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
@@ -37,6 +36,7 @@ feature_row:
     btn_label: "VER MAIS"
     btn_class: "btn--inverse"
 ---
+testando texto fora do intro
 
 {% include feature_row id="intro" type="center" %}
 
