@@ -20,14 +20,14 @@ feature_row:
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "#test-link"
     btn_label: "VER MAIS"
-    btn_class: "btn--inverse"
+    btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
     title: "Quem sou eu e outras informações"
     alt: "placeholder image 2"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "#test-link"
     btn_label: "VER MAIS"
-    btn_class: "btn--inverse"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
