@@ -4,7 +4,8 @@ layout: splash
 permalink: /
 date: 2016-09-12T11:48:41-04:00
 intro:
-  - excerpt: 'Oi, me chamo Pedro Burgos. Aqui deixo guardado algumas das minhas ideias e projetos, '
+  - excerpt: '
+  Oi, me chamo Pedro Burgos. Aqui deixo guardado algumas das minhas ideias e projetos, '
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
