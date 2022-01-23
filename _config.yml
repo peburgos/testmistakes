@@ -66,7 +66,7 @@ plugins:
 author:
   name   : "Pedro Burgos"
   #avatar : "/assets/images/bio-photo.jpg"
-  bio    : “Você não pode entender bom design se você não entende as pessoas; design é feito para pessoas - Dieter Rams"
+  bio    : "My awesome biography constrained to a sentence or two goes here."
   location : "Fortaleza, CE"
   links:
     - label: "Medium"
