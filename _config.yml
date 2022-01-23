@@ -70,10 +70,10 @@ author:
   location : "Fortaleza, CE"
   links:
     - label: "Behance"
-      icon: "fas fa-fw fa-behance"
+      icon: "fab fa-fw fa-behance"
       url: "https://www.behance.net/pburgos"
     - label: "Linkedin"
-      icon: "fas fa-fw fa-linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/pe-burgos/"
 
 
