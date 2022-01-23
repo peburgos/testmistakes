@@ -37,7 +37,6 @@ feature_row:
     btn_label: "VER MAIS"
     btn_class: "btn--inverse"
 ---
-oi
 
 {% include feature_row id="intro" type="center" %}
 
