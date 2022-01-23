@@ -69,9 +69,9 @@ author:
   bio    : "My awesome biography constrained to a sentence or two goes here."
   location : "Fortaleza, CE"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+    - label: "Linkedin"
+      icon: "fas fa-fw fa-linkin"
+      url: "https://www.linkedin.com/in/pe-burgos/"
 
 defaults:
   # _posts
