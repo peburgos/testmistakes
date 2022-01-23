@@ -6,9 +6,6 @@ date: 2016-09-12T11:48:41-04:00
 header:
   overlay_image: /assets/images/unsplash-image-1.jpg
   overlay_filter: linear-gradient(45deg, rgb(84, 51, 255), rgb(32, 189, 255), rgb(165, 254, 203))
-  actions:
-    - label: "VER MEUS PROJETOS EM UX DESIGN"
-      url: "https://unsplash.com"
 excerpt: "e planejo experiências digitais que melhoram e facilitam a vida dos usuários!"
 intro: 
   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin.'
