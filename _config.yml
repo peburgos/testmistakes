@@ -94,7 +94,7 @@ defaults:
       author_profile: true
 
 atom_feed:
-  hide: true
+  hide: false
 
 category_archive:
   type: liquid
