@@ -1,8 +1,11 @@
 ---
-title: "Portfolio"
+title: Portfolio
+layout: collection
 permalink: /portfolio/
-layout: posts
-date: 2016-09-12T11:48:41-04:00
+collection: portfolio
+entries_layout: grid
+classes: wide
 ---
-Just me, grumbling, sharing & talking about random stuff.
+
+Sample document listing for the collection `_portfolio`.
 ---
