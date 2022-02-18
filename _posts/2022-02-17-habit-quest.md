@@ -5,7 +5,7 @@ toc: true
 toc_label: "Índice"
 toc_sticky: true
 categories:
-  - Blog
+  - Portfolio
 tags:
   - Post Formats
   - readability
