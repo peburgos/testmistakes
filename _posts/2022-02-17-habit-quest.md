@@ -9,7 +9,7 @@ header:
   caption: "Crédito da imagem: [**Freepik**](https://Freepik.com)"
 related: false
 categories:
-  - blog
+  - portfolio
 ---
 
 Esse projeto foi inicialmente desenvolvido durante a disciplina de Projeto Integrado II do curso de Sistemas e Mídias Digitais da Universidade Federal do Ceará.
