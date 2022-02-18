@@ -1,7 +1,7 @@
 ---
-title: "Home"
+title: "Portfolio"
 layout: splash
-permalink: /
+permalink: /portfolio/
 date: 2016-09-12T11:48:41-04:00
 intro:
   - excerpt: '*“Você não pode entender bom design se você não entende as pessoas; design é feito para pessoas - Dieter Rams"*'
