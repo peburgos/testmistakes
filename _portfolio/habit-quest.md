@@ -12,7 +12,7 @@ sidebar:
     text: "Reuters try PR stupid commenters should isn't a business model"
 header:
   image: /assets/images/cover-habitquest.png
-  teaser: /assets/images/cover-habitquest.png
+  teaser: /assets/images/preview-habitquest.png
   caption: "Crédito da imagem: [**Freepik**](https://Freepik.com)"
 related: false
 categories:
