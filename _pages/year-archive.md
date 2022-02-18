@@ -7,4 +7,3 @@ classes: wide
 ---
 Just me, grumbling, sharing & talking about random stuff.
 ---
-
