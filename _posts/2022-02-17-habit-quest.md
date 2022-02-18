@@ -18,7 +18,7 @@ You'll find this post in your `_posts` directory. Go ahead and edit it and re-bu
 
 Esse projeto foi inicialmente desenvolvido durante a disciplina de Projeto Integrado II do curso de Sistemas e Mídias Digitais da Universidade Federal do Ceará.
 
-## Minha função
+# Minha função
 
 Fiquei responsável pela UX e UI do projeto. Os 3 demais membros da equipe colaboraram bastante principalmente durante o processo de ideação e definição, e se dedicaram bastante principalmente no desenvolvimento da implementação da aplicação.
 
@@ -41,9 +41,9 @@ Acesse aqui a entrevista completa no link abaixo
 
 ## Resultados obtidos
 
-Descobrimos que um dos principais motivos de desistência e desmotivação para esse público é a ****falta recursos visuais que lhe apresentassem de forma clara a **progressão** em seu exercício**,** faltando também **feedbacks mais imediatos sobre a sua performance** .
+Descobrimos que um dos principais motivos de desistência e desmotivação para esse público é a **falta recursos visuais que lhe apresentassem de forma clara a progressão** em seu exercício, faltando também **feedbacks mais imediatos sobre a sua performance** .
 
-Também concluímos que o produto a ser criado deveria ser um aplicativo voltado para manutenção de hábitos, pois ****o importante ****para o nosso público **é a continuar praticando a atividade ao longo do tempo** e não sobre manter uma prática específica.
+Também concluímos que o produto a ser criado deveria ser um aplicativo voltado para manutenção de hábitos, pois **o importante** para o nosso público **é a continuar praticando a atividade ao longo do tempo** e não sobre manter uma prática específica.
 
 
 # 2 - Wireframes e teste de usabilidade
