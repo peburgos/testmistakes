@@ -1,12 +1,12 @@
 ---
 title: "Habit Quest"
 date: 2022-02-16T23:20:02-05:00
+classes: wide
 toc: true
-layout: wide
 toc_label: "Índice"
 toc_sticky: true
 categories:
-  - Portfolio
+  - portfolio
 tags:
   - Post Formats
   - readability
