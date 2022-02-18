@@ -6,6 +6,7 @@ toc_label: "Índice"
 toc_sticky: true
 header:
   image: /assets/images/cover-habitquest.png
+  caption: "Crédito da imagem: [**Freepik**](https://Freepik.com)"
 categories:
   - blog
 tags:
