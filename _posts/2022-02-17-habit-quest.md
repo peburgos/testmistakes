@@ -29,7 +29,7 @@ Fiquei responsável pela UX e UI do projeto. Os 3 demais membros da equipe colab
 
 Depois de que a equipe coletivamente definiu o público a ser trabalhado, busquei esse conversar com esse público para entender qual necessidade poderia ser trabalhada dentro do nosso escopo.
 
-### Etapa de entrevista
+## Etapa de entrevista
 
 Nosso perfil buscado foram pessoas que praticam ou praticavam exercícios físicos e se interessam por jogos digitais, buscando entender porque esse público parou de praticar atividades físicas e quais os estímulos que faziam eles continuarem jogando jogos digitais.
 
@@ -39,7 +39,7 @@ Acesse aqui a entrevista completa no link abaixo
 
 [Entrevista sobre a necessidade](https://docs.google.com/document/d/e/2PACX-1vTCXsbuzGsIBDZwuu5nsYMbqUBYWnxvW9focmPjdmnDTgGETXX-QWDBm3slpT_doKapVeld1kXPI8Tk/pub)
 
-### Resultados obtidos
+## Resultados obtidos
 
 Descobrimos que um dos principais motivos de desistência e desmotivação para esse público é a ****falta recursos visuais que lhe apresentassem de forma clara a **progressão** em seu exercício**,** faltando também **feedbacks mais imediatos sobre a sua performance** .
 
@@ -54,7 +54,7 @@ Depois de identificar as principais necessidades, construí sketchs para explora
 
 Depois dessas explorações foi construído o wireframe para ser utilizado no testes de usabilidade com usuários para validar a interface o mais cedo quanto possível e minimizar riscos no desenvolvimento. Escolhi priorizar mais o wireframe da tela de Coleção do que a tela de Amigos, já que a primeira é mais importante para as funcionalidades principais do aplicativo.
 
-### Avaliação de usabilidade
+## Avaliação de usabilidade
 
 Partindo dessas explorações montei um wireframe no Figma para testar com os usuários as principais funcionalidades do aplicativo:
 
@@ -65,7 +65,7 @@ Partindo dessas explorações montei um wireframe no Figma para testar com os us
 
 O teste de usabilidade contou com 5 participantes, dentre os 6 que foram previamente contatados na etapa de entrevista. O teste foi realizado de forma remota e não moderada usando a plataforma Maze.
 
-### Resultados do teste de usabilidade
+## Resultados do teste de usabilidade
 
 Testar o mais cedo quanto possível nos permitiu minimizar os impactos que teriam ocorridos devido aos ajustes necessários caso os testes tivessem sidos realizados com o recurso já implementado.
 
