@@ -1,6 +1,7 @@
 ---
 title: "Habit Quest"
 date: 2022-02-17T23:20:02-05:00
+toc: true
 categories:
   - Blog
 tags:
