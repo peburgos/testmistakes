@@ -5,6 +5,11 @@ toc: true
 toc_label: "Índice"
 toc_sticky: true
 breadcrumb: false
+sidebar:
+  - title: "Role"
+    text: "Designer, Front-End Developer"
+  - title: "Responsibilities"
+    text: "Reuters try PR stupid commenters should isn't a business model"
 header:
   image: /assets/images/cover-habitquest.png
   caption: "Crédito da imagem: [**Freepik**](https://Freepik.com)"
