@@ -1,6 +1,7 @@
 ---
 title: "Welcome to Jekyll!"
 date: 2019-04-18T15:34:30-04:00
+layout: wide
 toc: true
 toc_label: "Navegação"
 toc_sticky: true
