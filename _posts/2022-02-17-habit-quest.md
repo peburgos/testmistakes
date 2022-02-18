@@ -5,7 +5,7 @@ toc: true
 toc_label: "Índice"
 toc_sticky: true
 header:
-  image: /assets/images/unsplash-image-1.jpg
+  image: /assets/images/cover-habitquest.png
 categories:
   - blog
 tags:
