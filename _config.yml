@@ -106,7 +106,6 @@ defaults:
       type: portfolio
     values:
       layout: single
-      author_profile: false
       share: true
 
 atom_feed:
