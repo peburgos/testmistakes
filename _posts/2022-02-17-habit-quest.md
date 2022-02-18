@@ -7,12 +7,10 @@ toc_sticky: true
 header:
   image: /assets/images/cover-habitquest.png
   caption: "Crédito da imagem: [**Freepik**](https://Freepik.com)"
+values:
+  related: false
 categories:
   - blog
-tags:
-  - Post Formats
-  - readability
-  - standard
 ---
 
 Esse projeto foi inicialmente desenvolvido durante a disciplina de Projeto Integrado II do curso de Sistemas e Mídias Digitais da Universidade Federal do Ceará.
