@@ -1,6 +1,6 @@
 ---
 title: "Habit Quest 2"
-except: "Projeto desenvolvido durante último semestre no Sistemas e Mídias Digitais da Universidade Federal do Ceará "
+excerpt: "Projeto desenvolvido durante último semestre no curso de Sistemas e Mídias Digitais da Universidade Federal do Ceará "
 date: 2022-02-16T23:20:02-05:00
 toc: true
 toc_label: "Índice"
