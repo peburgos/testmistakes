@@ -31,7 +31,7 @@ carrossel-finalizado:
   - url: /assets/images/Habit Quest/finalizado - tela de progressão.png
     image_path: /assets/images/Habit Quest/finalizado - tela de progressão.png
     alt: "Fog in the trees"
-  - url: /assets/images/Habit Quest/finalizado - tela de estatisticas.png
+  - url: /assets/images/Habit Quest/finalizado - tela de estatísticas.png
     image_path: /assets/images/Habit Quest/finalizado - tela de estatísticas.png
     alt: "Fog in the trees"
   - url: /assets/images/Habit Quest/finalizado - tela de coleção.png
@@ -53,9 +53,11 @@ carrossel-wire:
     alt: "Fog in the trees"
 
 ---
-Esse projeto foi desenvolvido durante a disciplina de Projeto Integrado II do curso de Sistemas e Mídias Digitais da Universidade Federal do Ceará,
+Esse projeto foi desenvolvido durante a disciplina de Projeto Integrado II do curso de Sistemas e Mídias Digitais da Universidade Federal do Ceará.
 
 Colaborei com os demais membros principalmente durante o processo de ideação e definição, depois nos comunicamos para compartilhar resultados e progressos obtidos nas pesquisas e no protótipo enquanto eles se dedicavam no desenvolvimento da implementação do aplicativo.
+
+Abaixo as telas do aplicativo com o design finalizado
 
 {% include gallery id="carrossel-finalizado" caption="This is a second gallery example with images hosted externally." %}
 
