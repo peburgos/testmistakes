@@ -1,5 +1,5 @@
 ---
-title: "Habit Quest 2"
+title: "Habit Quest"
 excerpt: "Projeto desenvolvido durante último semestre no curso de Sistemas e Mídias Digitais da Universidade Federal do Ceará "
 date: 2022-02-16T23:20:02-05:00
 toc: true
