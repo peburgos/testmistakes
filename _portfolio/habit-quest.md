@@ -1,15 +1,17 @@
 ---
 title: "Habit Quest"
-excerpt: "Projeto desenvolvido durante último semestre no curso de Sistemas e Mídias Digitais da Universidade Federal do Ceará "
+excerpt: "Projeto desenvolvido durante o curso de Sistemas e Mídias Digitais da Universidade Federal do Ceará"
 date: 2022-02-16T23:20:02-05:00
 toc: true
 toc_label: "Índice"
 breadcrumbs: false
 sidebar:
-  - title: "Role"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+  - title: "Data"
+    text: "Segundo semestre de 2020"
+  - title: "Função"
+    text: "Designer UX/UI"
+  - title: "Contexto"
+    text: "Esse projeto foi desenvolvido durante a disciplina de Projeto Integrado II do curso de Sistemas e Mídias Digitais da Universidade Federal do Ceará, colaborei com os demais membros principais principalmente durante o processo de ideação e definição, e eles se dedicaram principalmente na implementação da aplicação."
 header:
   image: /assets/images/cover-habitquest.png
   teaser: /assets/images/preview-habitquest.png
@@ -18,14 +20,6 @@ related: false
 categories:
   - portfolio
 ---
-
-Esse projeto foi inicialmente desenvolvido durante a disciplina de Projeto Integrado II do curso de Sistemas e Mídias Digitais da Universidade Federal do Ceará.
-
-# Minha função
-
-Fiquei responsável pela UX e UI do projeto. Os 3 demais membros da equipe colaboraram bastante principalmente durante o processo de ideação e definição, e se dedicaram bastante principalmente no desenvolvimento da implementação da aplicação.
-
-
 # 1 - Entendendo a necessidade do público
 
 ---
