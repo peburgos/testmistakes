@@ -9,7 +9,7 @@ sidebar:
   - title: "Data"
     text: "Segundo semestre de 2020"
   - title: "Função"
-    text: "Designer UX/UI"
+    text: "UX/UI Designer"
   - title: "Contexto"
     text: "Colaborei com os demais membros principalmente durante o processo de ideação e definição, depois nos comunicamos para compartilhar resultados e progressos obtidos, enquanto eles se dedicavam no desenvolvimento da implementação do aplicativo."
 header:
