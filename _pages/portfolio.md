@@ -7,5 +7,5 @@ entries_layout: grid
 classes: wide
 ---
 
-Sample document listing for the collection `_portfolio`.
+Aqui estão listados alguns projetos comerciais que realizei até o momento (respeitando questões confidenciais), explicando o processo e algumas decisões que foram tomadas ao participar deles
 ---
