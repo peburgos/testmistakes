@@ -18,7 +18,30 @@ related: false
 categories:
   - portfolio
 
-gallery:
+carrossel-finalizado:
+  - url: /assets/images/Habit Quest/finalizado - tela de inicio.png
+    image_path: /assets/images/Habit Quest/finalizado - tela de inicio.png
+    alt: "Black and grays with a hint of green"
+  - url: /assets/images/Habit Quest/finalizado - tela de leaderboard.png
+    image_path: /assets/images/Habit Quest/finalizado - tela de leaderboard.png
+    alt: "Made for open text placement"
+  - url: /assets/images/Habit Quest/finalizado - tela de social.png
+    image_path: /assets/images/Habit Quest/finalizado - tela de social.png
+    alt: "Fog in the trees"
+  - url: /assets/images/Habit Quest/finalizado - tela de progressão.png
+    image_path: /assets/images/Habit Quest/finalizado - tela de progressão.png
+    alt: "Fog in the trees"
+  - url: /assets/images/Habit Quest/finalizado - tela de estatisticas.png
+    image_path: /assets/images/Habit Quest/finalizado - tela de estatísticas.png
+    alt: "Fog in the trees"
+  - url: /assets/images/Habit Quest/finalizado - tela de coleção.png
+    image_path: /assets/images/Habit Quest/finalizado - tela de coleção.png
+    alt: "Fog in the trees"
+  - url: /assets/images/Habit Quest/finalizado - tela de conquistas.png
+    image_path: /assets/images/Habit Quest/finalizado - tela de conquistas.png
+    alt: "Fog in the trees"
+
+carrossel-wire:
   - url: https://flic.kr/p/8a6Ven
     image_path: https://farm2.staticflickr.com/1272/4697500467_8294dac099_q.jpg
     alt: "Black and grays with a hint of green"
@@ -34,6 +57,9 @@ Esse projeto foi desenvolvido durante a disciplina de Projeto Integrado II do cu
 
 Colaborei com os demais membros principalmente durante o processo de ideação e definição, depois nos comunicamos para compartilhar resultados e progressos obtidos nas pesquisas e no protótipo enquanto eles se dedicavam no desenvolvimento da implementação do aplicativo.
 
+{% include gallery id="carrossel-finalizado" caption="This is a second gallery example with images hosted externally." %}
+
+
 {% comment %}
 # Objetivos
 {% endcomment %}
@@ -42,7 +68,6 @@ Colaborei com os demais membros principalmente durante o processo de ideação e
 ---
 Depois de que a equipe coletivamente definiu o público a ser trabalhado, busquei esse conversar com esse público para entender qual necessidade poderia ser trabalhada dentro do nosso escopo.
 
-{% include gallery id="gallery" caption="This is a second gallery example with images hosted externally." %}
 
 
 ## Etapa de entrevista
