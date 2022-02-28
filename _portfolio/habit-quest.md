@@ -11,7 +11,7 @@ sidebar:
   - title: "Função"
     text: "Designer UX/UI"
   - title: "Contexto"
-    text: "Esse projeto foi desenvolvido durante a disciplina de Projeto Integrado II do curso de Sistemas e Mídias Digitais da Universidade Federal do Ceará, colaborei com os demais membros principais principalmente durante o processo de ideação e definição, e eles se dedicaram principalmente na implementação da aplicação."
+    text: "Colaborei com os demais membros principalmente durante o processo de ideação e definição, depois nos comunicamos para compartilhar resultados e progressos obtidos, enquanto eles se dedicavam no desenvolvimento da implementação do aplicativo."
 header:
   image: /assets/images/cover-habitquest.png
   teaser: /assets/images/preview-habitquest.png
@@ -19,9 +19,12 @@ header:
 related: false
 categories:
   - portfolio
----
-# 1 - Entendendo a necessidade do público
 
+---
+Esse projeto foi desenvolvido durante a disciplina de Projeto Integrado II do curso de Sistemas e Mídias Digitais da Universidade Federal do Ceará,
+
+
+# 1 - Entendendo a necessidade do público
 ---
 
 Depois de que a equipe coletivamente definiu o público a ser trabalhado, busquei esse conversar com esse público para entender qual necessidade poderia ser trabalhada dentro do nosso escopo.
