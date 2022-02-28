@@ -10,8 +10,6 @@ sidebar:
     text: "Segundo semestre de 2020"
   - title: "Função"
     text: "UX/UI Designer"
-  - title: "Contexto"
-    text: "Colaborei com os demais membros principalmente durante o processo de ideação e definição, depois nos comunicamos para compartilhar resultados e progressos obtidos, enquanto eles se dedicavam no desenvolvimento da implementação do aplicativo."
 header:
   image: /assets/images/cover-habitquest.png
   teaser: /assets/images/preview-habitquest.png
@@ -21,8 +19,10 @@ categories:
   - portfolio
 
 ---
+# Contexto
 Esse projeto foi desenvolvido durante a disciplina de Projeto Integrado II do curso de Sistemas e Mídias Digitais da Universidade Federal do Ceará,
 
+Colaborei com os demais membros principalmente durante o processo de ideação e definição, depois nos comunicamos para compartilhar resultados e progressos obtidos, enquanto eles se dedicavam no desenvolvimento da implementação do aplicativo.
 
 # 1 - Entendendo a necessidade do público
 ---
