@@ -6,7 +6,7 @@ toc: true
 toc_label: "Índice"
 breadcrumbs: false
 sidebar:
-  - title: "Data"
+  - title: "Realizado durante"
     text: "Segundo semestre de 2020"
   - title: "Responsabilidades"
     text: "Realizar processos de UX/UI e aplicar conceitos de Interação Humano-Computador para entregar a interface de um produto a ser lançado no mercado"
@@ -42,7 +42,7 @@ Colaborei com os demais membros principalmente durante o processo de ideação e
 ---
 Depois de que a equipe coletivamente definiu o público a ser trabalhado, busquei esse conversar com esse público para entender qual necessidade poderia ser trabalhada dentro do nosso escopo.
 
-{% include gallery id="gallery2" caption="This is a second gallery example with images hosted externally." %}
+{% include gallery id="gallery" caption="This is a second gallery example with images hosted externally." %}
 
 
 ## Etapa de entrevista
