@@ -25,9 +25,6 @@ carrossel-finalizado:
   - url: /assets/images/Habit Quest/finalizado - tela de leaderboard.png
     image_path: /assets/images/Habit Quest/finalizado - tela de leaderboard.png
     alt: "Made for open text placement"
-  - url: /assets/images/Habit Quest/finalizado - tela de social.png
-    image_path: /assets/images/Habit Quest/finalizado - tela de social.png
-    alt: "Fog in the trees"
   - url: /assets/images/Habit Quest/finalizado - tela de progressão.png
     image_path: /assets/images/Habit Quest/finalizado - tela de progressão.png
     alt: "Fog in the trees"
@@ -48,9 +45,6 @@ carrossel-wire:
   - url: https://flic.kr/p/8a738X
     image_path: https://farm5.staticflickr.com/4029/4697523701_249e93ba23_q.jpg
     alt: "Made for open text placement"
-  - url: https://flic.kr/p/8a6VXP
-    image_path: https://farm5.staticflickr.com/4046/4697502929_72c612c636_q.jpg
-    alt: "Fog in the trees"
 
 ---
 Esse projeto foi desenvolvido durante a disciplina de Projeto Integrado II do curso de Sistemas e Mídias Digitais da Universidade Federal do Ceará.
