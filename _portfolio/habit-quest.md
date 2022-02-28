@@ -8,8 +8,8 @@ breadcrumbs: false
 sidebar:
   - title: "Data"
     text: "Segundo semestre de 2020"
-  - title: "Função"
-    text: "UX/UI Designer"
+  - title: "Responsabilidades"
+    text: "Realizar processos de UX/UI e aplicar conceitos de Interação Humano-Computador para entregar a interface de um produto minimamente viável a ser lançado no mercado"
 header:
   image: /assets/images/cover-habitquest.png
   teaser: /assets/images/preview-habitquest.png
@@ -21,18 +21,21 @@ categories:
 ---
 Esse projeto foi desenvolvido durante a disciplina de Projeto Integrado II do curso de Sistemas e Mídias Digitais da Universidade Federal do Ceará,
 
-Colaborei com os demais membros principalmente durante o processo de ideação e definição, depois nos comunicamos para compartilhar resultados e progressos obtidos enquanto eles se dedicavam no desenvolvimento da implementação do aplicativo.
+Colaborei com os demais membros principalmente durante o processo de ideação e definição, depois nos comunicamos para compartilhar resultados e progressos obtidos nas pesquisas e no protótipo enquanto eles se dedicavam no desenvolvimento da implementação do aplicativo.
+
+{% comment %}
+# Objetivos
+{% endcomment %}
 
 # 1 - Entendendo a necessidade do público
 ---
-
 Depois de que a equipe coletivamente definiu o público a ser trabalhado, busquei esse conversar com esse público para entender qual necessidade poderia ser trabalhada dentro do nosso escopo.
 
 ## Etapa de entrevista
 
 Nosso perfil buscado foram pessoas que praticam ou praticavam exercícios físicos e se interessam por jogos digitais, buscando entender porque esse público parou de praticar atividades físicas e quais os estímulos que faziam eles continuarem jogando jogos digitais.
 
-Recrutamos participantes para a entrevista semi estruturada através de um grupo de alunos no Facebook do curso Sistemas e Mídias Digitais da Universidade Federal do Ceará, e realizei a entrevista com 6 pessoas através do Messenger e Whatsapp. Os participantes também foram consultados se teriam interesse em participar de testes de usabilidade posteriormente.
+Recrutamos participantes para a entrevista estruturada através de um grupo de alunos no Facebook do curso Sistemas e Mídias Digitais da Universidade Federal do Ceará, e realizei a entrevista com 6 pessoas através do Messenger e Whatsapp. Os participantes também foram consultados se teriam interesse em participar de testes de usabilidade posteriormente.
 
 Acesse aqui a entrevista completa no link abaixo
 
