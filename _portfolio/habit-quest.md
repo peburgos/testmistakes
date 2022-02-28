@@ -11,8 +11,8 @@ sidebar:
   - title: "Responsabilidades"
     text: "Realizar processos de UX/UI e aplicar conceitos de Interação Humano-Computador para entregar a interface de um produto a ser lançado no mercado"
 header:
-  image: /assets/images/cover-habitquest.png
-  teaser: /assets/images/preview-habitquest.png
+  image: /assets/images/Habit Quest/cover-habitquest.png
+  teaser: /assets/images/Habit Quest/preview-habitquest.png
   caption: "Crédito da imagem: [**Freepik**](https://Freepik.com)"
 related: false
 categories:
