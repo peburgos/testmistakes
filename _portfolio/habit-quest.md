@@ -68,7 +68,6 @@ Recrutamos participantes para a entrevista estruturada através de um grupo de a
 	<a href="/assets/images/Habit Quest/entrevista.png"><img src="/assets/images/Habit Quest/entrevista.png"></a>
 	<figcaption><a href="https://docs.google.com/document/d/e/2PACX-1vTCXsbuzGsIBDZwuu5nsYMbqUBYWnxvW9focmPjdmnDTgGETXX-QWDBm3slpT_doKapVeld1kXPI8Tk/pub" title="Acesse os dados da entrevista completa">Acesse os dados da entrevista completa</a></figcaption>
 </figure>
-a
 
 ## Resultados obtidos
 
