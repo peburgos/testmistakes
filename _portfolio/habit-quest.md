@@ -46,12 +46,6 @@ carrossel-wire:
     image_path: https://farm5.staticflickr.com/4029/4697523701_249e93ba23_q.jpg
     alt: "Made for open text placement"
 
-img-report:
-  - url: https://app.maze.co/report/9afd1akehg6qvd/#intro
-    image_path: /assets/images/Habit Quest/MazeReport.png
-    caption: Confira o relatório completo do teste de usabilidade
-    alt: "Black and grays with a hint of green"
-
 ---
 Esse projeto foi desenvolvido durante a disciplina de Projeto Integrado II do curso de Sistemas e Mídias Digitais da Universidade Federal do Ceará.
 
@@ -118,6 +112,8 @@ Os dados obtidos pelo teste foram **essenciais** para identificar quais as **inf
 	<a href="/assets/images/Habit Quest/MazeReport.png"><img src="/assets/images/Habit Quest/MazeReport.png"></a>
 	<figcaption><a href="https://app.maze.co/report/9afd1akehg6qvd/#intro" title="Confira o relatório completo do teste de usabilidade">Confira o relatório completo do teste de usabilidade</a>.</figcaption>
 </figure>
+
+foi
 
 # 3 - Ajustes e refinamento de telas
 
