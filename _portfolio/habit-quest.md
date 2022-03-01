@@ -84,8 +84,8 @@ Depois de identificar as principais necessidades, construí sketchs para explora
 Depois dessas explorações foi construído o wireframe para ser utilizado no testes de usabilidade com usuários para validar a interface o mais cedo quanto possível e minimizar riscos no desenvolvimento. Considerando quais seriam os fluxos mais importantes a serem testados, escolhi priorizar o wireframe da tela de "Início" e "Coleção" para o teste, já que essas são mais importantes para as principais funcionalidades a serem utilizadas no aplicativo.
 
 <figure class="half">
-    <a href="/assets/images/Habit Quest/baixaFidelidade - home.png"><img src="/assets/images/Habit Quest/baixaFidelidade - home.png"></a>
-    <a href="/assets/images/Habit Quest/médiaFidelidade - home2.png"><img src="/assets/images/Habit Quest/médiaFidelidade - home2.png"></a>
+    <a href="/assets/images/Habit Quest/baixaFidelidade - home2.png"><img src="/assets/images/Habit Quest/baixaFidelidade - home2.png"></a>
+    <a href="/assets/images/Habit Quest/médiaFidelidade - home.png"><img src="/assets/images/Habit Quest/médiaFidelidade - home.png"></a>
     <figcaption>Rascunho e wireframe da tela de "Início"</figcaption>
 </figure>
 
