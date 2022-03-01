@@ -110,7 +110,7 @@ Os dados obtidos pelo teste foram **essenciais** para identificar quais as **inf
 
 <figure>
 	<a href="/assets/images/Habit Quest/MazeReport.png"><img src="/assets/images/Habit Quest/MazeReport.png"></a>
-	<figcaption><a href="https://app.maze.co/report/9afd1akehg6qvd/#intro" style="text-align:centered" title="Confira o relatório completo do teste de usabilidade">Confira o relatório completo do teste de usabilidade no Maze</a>.</figcaption>
+	<figcaption><a href="https://app.maze.co/report/9afd1akehg6qvd/#intro" style="text-align:center" title="Confira o relatório completo do teste de usabilidade">Confira o relatório completo do teste de usabilidade no Maze</a></figcaption>
 </figure>
 
 # 3 - Ajustes e refinamento de telas
