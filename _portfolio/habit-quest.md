@@ -4,9 +4,8 @@ excerpt: "Projeto desenvolvido durante o curso de Sistemas e Mídias Digitais da
 date: 2022-02-16T23:20:02-05:00
 toc: true
 toc_label: "Índice"
-breadcrumbs: false
 sidebar:
-  - title: "Realizado durante"
+  - title: "Período"
     text: "Segundo semestre de 2020"
   - title: "Responsabilidades"
     text: "Realizar processos de UX/UI e aplicar conceitos de Interação Humano-Computador para entregar a interface de um produto a ser lançado no mercado"
@@ -80,9 +79,16 @@ Também concluímos que o produto a ser criado deveria ser um aplicativo voltado
 
 ---
 
-Depois de identificar as principais necessidades, construí sketchs para explorar possibilidades para as telas de início e de amigos.
+Depois de identificar as principais necessidades, construí sketchs para explorar possibilidades e ideias para algumas telas.
 
-Depois dessas explorações foi construído o wireframe para ser utilizado no testes de usabilidade com usuários para validar a interface o mais cedo quanto possível e minimizar riscos no desenvolvimento. Escolhi priorizar mais o wireframe da tela de Coleção do que a tela de Amigos, já que a primeira é mais importante para as funcionalidades principais do aplicativo.
+Depois dessas explorações foi construído o wireframe para ser utilizado no testes de usabilidade com usuários para validar a interface o mais cedo quanto possível e minimizar riscos no desenvolvimento. Considerando quais seriam os fluxos mais importantes a serem testados, escolhi priorizar o wireframe da tela de "Início" e "Coleção" para o teste, já que essas são mais importantes para as principais funcionalidades a serem utilizadas no aplicativo.
+
+<figure class="half">
+    <a href="/assets/images/Habit Quest/baixaFidelidade - home.png"><img src="/assets/images/Habit Quest/baixaFidelidade - home.png"></a>
+    <a href="/assets/images/Habit Quest/médiaFidelidade - home.png"><img src="/assets/images/Habit Quest/médiaFidelidade - home.png"></a>
+    <figcaption>Rascunho e wireframe da tela de "Início"</figcaption>
+</figure>
+
 
 ## Avaliação de usabilidade
 
