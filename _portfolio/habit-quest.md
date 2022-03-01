@@ -49,7 +49,7 @@ carrossel-wire:
 img-report:
   - url: https://app.maze.co/report/9afd1akehg6qvd/#intro
     image_path: /assets/images/Habit Quest/MazeReport.png
-    caption: [Confira o relatório completo do teste de usabilidade](https://app.maze.co/report/9afd1akehg6qvd/#intro)
+    caption: Confira o relatório completo do teste de usabilidade
     alt: "Black and grays with a hint of green"
 
 ---
