@@ -46,6 +46,11 @@ carrossel-wire:
     image_path: https://farm5.staticflickr.com/4029/4697523701_249e93ba23_q.jpg
     alt: "Made for open text placement"
 
+img-report:
+  - url: https://app.maze.co/report/9afd1akehg6qvd/#intro
+    image_path: /assets/images/Habit Quest/MazeReport.png
+    alt: "Black and grays with a hint of green"
+
 ---
 Esse projeto foi desenvolvido durante a disciplina de Projeto Integrado II do curso de Sistemas e Mídias Digitais da Universidade Federal do Ceará.
 
@@ -108,7 +113,7 @@ Testar o mais cedo quanto possível nos permitiu minimizar os impactos que teria
 
 Os dados obtidos pelo teste foram **essenciais** para identificar quais as **informações** que deveriam ou não serem **priorizadas** para serem exibidas durante os fluxos das funcionalidades do app e quais eram as interações que deveriam ser simplificadas para serem mais intuitivas ao usuário.
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Habit Quest/MazeReport.png" alt="">
+{% include gallery id="img-report"%}
 
 [Confira o relatório completo do teste de usabilidade]
 (https://app.maze.co/report/9afd1akehg6qvd/#intro)
