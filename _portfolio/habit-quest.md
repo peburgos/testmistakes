@@ -38,18 +38,10 @@ carrossel-finalizado:
     image_path: /assets/images/Habit Quest/finalizado - tela de conquistas.png
     alt: "Fog in the trees"
 
-carrossel-wire:
-  - url: https://flic.kr/p/8a6Ven
-    image_path: https://farm2.staticflickr.com/1272/4697500467_8294dac099_q.jpg
-    alt: "Black and grays with a hint of green"
-  - url: https://flic.kr/p/8a738X
-    image_path: https://farm5.staticflickr.com/4029/4697523701_249e93ba23_q.jpg
-    alt: "Made for open text placement"
-
 ---
 Esse projeto foi desenvolvido durante a disciplina de Projeto Integrado II do curso de Sistemas e Mídias Digitais da Universidade Federal do Ceará.
 
-Colaborei com os demais membros principalmente durante o processo de ideação e definição, depois nos comunicamos para compartilhar resultados e progressos obtidos nas pesquisas e no protótipo enquanto eles se dedicavam no desenvolvimento da implementação do aplicativo.
+Colaborei com os demais membros principalmente durante o processo de ideação e definição, posterior a isso nos comunicamos para compartilhar os progressos obtidos nas pesquisas e no protótipo enquanto eles se dedicavam no desenvolvimento da implementação do aplicativo.
 
 **Abaixo as telas do aplicativo com o design finalizado, e em seguida a descrição do processo utilizado**
 
@@ -72,9 +64,10 @@ Nosso perfil buscado foram pessoas que praticam ou praticavam exercícios físic
 
 Recrutamos participantes para a entrevista estruturada através de um grupo de alunos no Facebook do curso Sistemas e Mídias Digitais da Universidade Federal do Ceará, e realizei a entrevista com 6 pessoas através do Messenger e Whatsapp. Os participantes também foram consultados se teriam interesse em participar de testes de usabilidade posteriormente.
 
-Acesse aqui a entrevista completa no link abaixo
-
-[Entrevista sobre a necessidade](https://docs.google.com/document/d/e/2PACX-1vTCXsbuzGsIBDZwuu5nsYMbqUBYWnxvW9focmPjdmnDTgGETXX-QWDBm3slpT_doKapVeld1kXPI8Tk/pub)
+<figure>
+	<a href="/assets/images/Habit Quest/entrevista.png"><img src="/assets/images/Habit Quest/entrevista.png"></a>
+	<figcaption><a href=https://docs.google.com/document/d/e/2PACX-1vTCXsbuzGsIBDZwuu5nsYMbqUBYWnxvW9focmPjdmnDTgGETXX-QWDBm3slpT_doKapVeld1kXPI8Tk/pub" title="Acesse os dados da entrevista completa">Acesse os dados da entrevista completa</a></figcaption>
+</figure>
 
 ## Resultados obtidos
 
