@@ -107,7 +107,15 @@ Testar o mais cedo quanto possível nos permitiu minimizar os impactos que teria
 
 Os dados obtidos pelo teste foram **essenciais** para identificar quais as **informações** que deveriam ou não serem **priorizadas** para serem exibidas durante os fluxos das funcionalidades do app e quais eram as interações que deveriam ser simplificadas para serem mais intuitivas ao usuário.
 
-### Algumas informações
+Por exemplo, **com base nos dados sobre o teste no fluxo de editar os dias de um hábito repensei a forma de interação tanto para chegar na edição quanto como ativar elas, buscando simplificar e tornar esse uso mais intuitivo"
+
+### Exemplos de dados utilizados para diagnosticar pontos de confusão no fluxo de edição de dias
+
+<figure class="half">
+    <a href="/assets/images/Habit Quest/MazeImg1.png"><img src="/assets/images/Habit Quest/MazeImg1.png"></a>
+    <a href="/assets/images/Habit Quest/MazeImg2.png"><img src="/assets/images/Habit Quest/MazeImg2"></a>
+    <figcaption>Dados obtidos pelo Maze indicando problemas de usabilidade em partes do fluxo"</figcaption>
+</figure>
 
 <figure>
 	<a href="/assets/images/Habit Quest/MazeReport.png"><img src="/assets/images/Habit Quest/MazeReport.png"></a>
@@ -118,7 +126,7 @@ Os dados obtidos pelo teste foram **essenciais** para identificar quais as **inf
 
 ---
 
-Depois de analisar cuidadosamente os dados obtidos no teste, as telas foram ajustadas para ficarem mais alinhadas com o modelo mental dos usuários, além de também aplicar a identidade visual que vinha desenvolvida enquanto isso.
+Depois de analisar cuidadosamente os dados obtidos no teste, as telas foram ajustadas para ficarem mais alinhadas com o modelo mental dos usuários, além de também aplicar a identidade visual que vinha sendo desenvolvida enquanto isso.
 
 Confira abaixo o protótipo de alta fidelidade feito no Figma.
 
