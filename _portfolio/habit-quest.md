@@ -114,9 +114,10 @@ Testar o mais cedo quanto possível nos permitiu minimizar os impactos que teria
 
 Os dados obtidos pelo teste foram **essenciais** para identificar quais as **informações** que deveriam ou não serem **priorizadas** para serem exibidas durante os fluxos das funcionalidades do app e quais eram as interações que deveriam ser simplificadas para serem mais intuitivas ao usuário.
 
-{% include gallery id="img-report"%}
-
-
+<figure>
+	<a href="/assets/images/Habit Quest/MazeReport.png"><img src="/assets/images/Habit Quest/MazeReport.png"></a>
+	<figcaption><a href="https://app.maze.co/report/9afd1akehg6qvd/#intro" title="Confira o relatório completo do teste de usabilidade</a>.</figcaption>
+</figure>
 
 # 3 - Ajustes e refinamento de telas
 
