@@ -49,6 +49,7 @@ carrossel-wire:
 img-report:
   - url: https://app.maze.co/report/9afd1akehg6qvd/#intro
     image_path: /assets/images/Habit Quest/MazeReport.png
+    caption: [Confira o relatório completo do teste de usabilidade](https://app.maze.co/report/9afd1akehg6qvd/#intro)
     alt: "Black and grays with a hint of green"
 
 ---
@@ -115,8 +116,6 @@ Os dados obtidos pelo teste foram **essenciais** para identificar quais as **inf
 
 {% include gallery id="img-report"%}
 
-[Confira o relatório completo do teste de usabilidade]
-(https://app.maze.co/report/9afd1akehg6qvd/#intro)
 
 
 # 3 - Ajustes e refinamento de telas
