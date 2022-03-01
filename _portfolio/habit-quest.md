@@ -120,6 +120,8 @@ Depois de analisar cuidadosamente os dados obtidos no teste, as telas foram ajus
 
 Confira abaixo o protótipo de alta fidelidade feito no Figma.
 
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F8qhv2lhPyvyf8EFGG4y8W7%2FHabit-Quest%3Fnode-id%3D610%253A898" allowfullscreen></iframe>
+
 
 # 4 - Aprendizados durante o projeto
 
