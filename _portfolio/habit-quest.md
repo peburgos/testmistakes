@@ -42,7 +42,7 @@ Esse projeto foi desenvolvido durante a disciplina de Projeto Integrado II do cu
 
 Colaborei com os demais membros principalmente durante o processo de ideação e definição, posterior a isso nos comunicamos para compartilhar os progressos obtidos nas pesquisas e no protótipo enquanto eles se dedicavam no desenvolvimento da implementação do aplicativo.
 
-**Abaixo as telas do aplicativo com o design finalizado, e em seguida a descrição do processo utilizado**
+**As imagens a seguir são as telas do aplicativo com o design finalizado, e em seguida a descrição sobre processo utilizado na construção delas**
 
 {% include gallery id="carrossel-finalizado" caption="This is a second gallery example with images hosted externally." %}
 
