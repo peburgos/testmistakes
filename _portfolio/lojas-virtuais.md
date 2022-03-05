@@ -18,12 +18,13 @@ categories:
   - portfolio
 
 ---
-Esse processo de design foi utilizado para projetar lojas virtuais de 22 empresas, que atuavam XX setores diferentes, ao longo de 20 meses. Ele possuía como principal objetivo **construir um layout assertivo e alinhado com as necessidades do cliente dentro do prazo negociado.**
+
+Esse processo de design foi utilizado para projetar lojas virtuais de 22 empresas, que atuavam 11 setores diferentes, ao longo de 20 meses. Ele possuía como principal objetivo **construir um layout assertivo e alinhado com as necessidades do cliente dentro do prazo negociado.**
 
 E posso dizer que durante esse tempo ele **atingiu muito bem os objetivos buscados**:
-- 82% dos layouts foram aprovados sem nenhuma solicitação de alteração,
-- todos os designs entregues dentro do prazo
-- apenas 13% das lojas solicitaram correções ao layout depois de entregue
+- **82%** dos layouts foram aprovados sem nenhuma solicitação de alteração,
+- **todos** os designs entregues dentro do prazo
+- apenas **13%** das lojas solicitaram correções ao layout depois de entregue
 
 
 # Sobre o processo
@@ -80,19 +81,29 @@ Durante essa reunião
 ## 1.2 - Recebimento de informações do marketing e do cliente
 
 # 2 - Ideate (Problema específico)
+
 ---
+
 ## 2.1 - Referências e Moodboard
+
 ## 2.2 - Exemplo de wireframe
 
 # 3 - Prototype
+
 ---
+
 ## 3.1 - Protótipo padrão
+
 ## 3.2 - Funcionalidades extras
 
 # 4 - Documentação e Handoff
+
 ---
+
 ## 4.1 - Para a equipe do cliente
+
 ## 4.2 - Para a equipe de desenvolvimento
 
 # 5 - Aprendizados
+
 ---
