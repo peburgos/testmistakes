@@ -1,6 +1,6 @@
 ---
-title: "Construção do design para lojas virtuais"
-excerpt: "Utilização do processo double diamond como adaptações para atender melhor as necessidades dos projetos"
+title: "Design de lojas virtuais"
+excerpt: "Projetos durante meu tempo na Bleez E-Commerce"
 date: 2022-02-22T23:20:02-05:00
 toc: true
 toc_label: "Índice"
@@ -12,7 +12,7 @@ sidebar:
 header:
   image: /assets/images/Bleez/cover.png
   teaser: /assets/images/Bleez/thumb.png
-  caption: "Crédito da imagem: [**Freepik**](https://Freepik.com)"
+  caption: "Crédito da imagem: [**Pixabay**](https://www.pexels.com/pt-br/@pixabay)"
 related: false
 categories:
   - portfolio
@@ -76,7 +76,12 @@ Essas informações eram coletadas através dos perfis de rede sociais, de lojas
 
 Na data combinada com a equipe do cliente, normalmente acompanhado por uma colega do marketing, ocorria uma reunião para alinhar informações sobre o projeto e entrevistar o cliente para **entender de forma mais aprofundada sobre informações coletadas até o momento sobre a empresa contratante.**
 
-Durante essa reunião
+Durante essa reunião recebíamos dados sobre o comportamento do usuário
+
+<figure>
+	<a href="/assets/images/Bleez/dados-filtro.png"><img src="/assets/images/Bleez/dados-filtro.png"></a>
+	<figcaption><a href="https://docs.google.com/document/d/e/2PACX-1vTCXsbuzGsIBDZwuu5nsYMbqUBYWnxvW9focmPjdmnDTgGETXX-QWDBm3slpT_doKapVeld1kXPI8Tk/pub" title="Acesse os dados da entrevista completa">Acesse os dados da entrevista completa</a></figcaption>
+</figure>
 
 ## 1.2 - Recebimento de informações do marketing e do cliente
 
