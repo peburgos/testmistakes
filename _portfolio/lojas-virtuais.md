@@ -10,7 +10,7 @@ sidebar:
   - title: "Responsabilidades"
     text: "Concepção e prototipação do layout para as lojas virtuais com base nos dados levantados sobre o comportamento do usuário e no conceito da experiência buscada pela marca do cliente."
 header:
-  image: /assets/images/Bleez/cover.png
+  image: /assets/images/Bleez/cover.jpg
   teaser: /assets/images/Habit Quest/preview-habitquest.png
   caption: "Crédito da imagem: [**Freepik**](https://Freepik.com)"
 related: false
@@ -22,7 +22,7 @@ categories:
 Esse processo de design foi utilizado para projetar lojas virtuais de 22 empresas, que atuavam 11 setores diferentes, ao longo de 20 meses. Ele possuía como principal objetivo **construir um layout assertivo e alinhado com as necessidades do cliente dentro do prazo negociado.**
 
 E posso dizer que durante esse tempo ele **atingiu muito bem os objetivos buscados**:
-- **82%** dos layouts foram aprovados sem nenhuma solicitação de alteração,
+- **82%** dos layouts foram aprovados sem nenhuma solicitação de alteração
 - **todos** os designs entregues dentro do prazo
 - apenas **13%** das lojas solicitaram correções ao layout depois de entregue
 
