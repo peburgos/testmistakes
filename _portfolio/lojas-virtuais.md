@@ -1,6 +1,6 @@
 ---
-title: "Concepção da UX/UI para lojas virtuais"
-excerpt: "Utilização do processo double diamond como adaptações para atender melhor as necessidades da empresa"
+title: "Como realizar o design para lojas virtuais"
+excerpt: "Utilização do processo double diamond como adaptações para atender melhor as necessidades dos projetos"
 date: 2022-02-22T23:20:02-05:00
 toc: true
 toc_label: "Índice"
@@ -10,7 +10,7 @@ sidebar:
   - title: "Responsabilidades"
     text: "Concepção e prototipação do layout para as lojas virtuais com base nos dados levantados sobre o comportamento do usuário e no conceito da experiência buscada pela marca do cliente."
 header:
-  image: /assets/images/Habit Quest/cover-habitquest.png
+  image: /assets/images/Bleez/cover.png
   teaser: /assets/images/Habit Quest/preview-habitquest.png
   caption: "Crédito da imagem: [**Freepik**](https://Freepik.com)"
 related: false
@@ -31,9 +31,9 @@ E posso dizer que durante esse tempo ele **atingiu muito bem os objetivos buscad
 
 ---
 
-**Esse processo de design utilizado possuía como base o processo de design Double Diamond, com adaptações para se adequar às características comuns aos projetos, como o nível de desenvolvimento e o prazo estipulado para o cliente.**
+Para buscar os resultados desejados, utilizamos como base o processo de design Double Diamond com adaptações para se adequar às características comuns aos projetos, como o nível de desenvolvimento e o prazo estipulado para o cliente.**
 
-No geral, o processo possuía 4 etapas: Discover e define, Ideate, Prototype e Handoff.
+No geral, o processo possuía apenas 4 etapas: Discover e define, Ideate, Prototype e Handoff.
 
 inserir aqui imagem do fluxo
 
@@ -66,7 +66,7 @@ A etapa possuía como objetivo tentar ao máximo **conseguir informações que a
 ### Sobre a presença online e offline dessa marca
 
 - Como é a presença online dessa marca? De que forma ela busca se comunicar com os usuários?
-- Como é a identidade visual dessa marca? De que forma ela trabalha e reforça os principais elementos?
+- Quais as características da identidade visual dessa marca? Como ela trabalha e reforça os principais elementos?
 - Se ela possuir uma loja física, como ela se parece? Qual a experiência buscada dentro dela?
 
 Essas informações eram coletadas através dos perfis de rede sociais, de lojas virtuais anteriores do cliente e qualquer outro site que tivesse informações diretamente relacionadas à loja do cliente.
