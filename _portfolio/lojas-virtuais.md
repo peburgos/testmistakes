@@ -1,5 +1,5 @@
 ---
-title: "Como ocorre a concepção da UX/UI de uma loja virtual"
+title: "Concepção da UX/UI para lojas virtuais"
 excerpt: "Utilização do processo double diamond como adaptações para atender melhor as necessidades da empresa"
 date: 2022-02-22T23:20:02-05:00
 toc: true
@@ -21,17 +21,14 @@ categories:
 Esse processo de design foi utilizado para projetar lojas virtuais de 24 empresas diferentes ao longo de 20 meses. Ele possuía como principal objetivo **construir um layout assertivo e alinhado com as necessidades do cliente dentro do prazo negociado.**
 
 E posso dizer que durante esse tempo ele **atingiu todos os objetivos buscados**:
-- **XX% dos layouts aprovados sem solicitações de alterações,**
-- **todos os layouts entregues dentro do prazo**
-- **apenas XX% de lojas que necessitaram de correções posteriores ao layout**
+> **XX% e layouts aprovados sem nenhuma solicitação de alteração,**
+> **todos os designs entregues dentro do prazo**
+> **apenas XX% de lojas que necessitaram de correções posteriores ao layout**
 
 
 # Sobre o processo
+
 ---
-
-
-
-##
 
 **Esse processo de design utilizado possuía como base o processo de design Double Diamond, com adaptações para se adequar às características comuns aos projetos, como o nível de desenvolvimento e o prazo estipulado para o cliente.**
 
@@ -40,7 +37,9 @@ No geral, o processo possuía 4 etapas: Discover e define, Ideate, Prototype e H
 inserir aqui imagem do fluxo
 
 # 1 - Discover/Define  (Problema geral)
+
 ---
+
 O objetivo dessa etapa era **levantar a maior quantidades de dados e informações para minimizar os riscos e construir o layout mais assertivo, que obtivesse resultados, e que estivesse alinhado com os interesses do cliente dentro do prazo** de 1-2 semanas.
 
 Para isso, era necessário construir algumas premissas para começar a entender melhor o problema a ser resolvido:
@@ -51,22 +50,29 @@ Para isso, era necessário construir algumas premissas para começar a entender 
 
 Buscando começar a entender as complicações do problema e levantar possíveis dúvidas e dados a serem pedidos durante a entrevista com o cliente, começava o levantamento preliminar.
 
+
 ## 1.1 - Levantamento preliminar
+
 A etapa possuía como objetivo tentar ao máximo **conseguir informações que ajudassem a levantar, de forma preliminar, quais seriam as dificuldades e complexidades a serem resolvidas durante o problema** mais sobre as seguintes questões:
 
 ### Sobre o segmento da loja
+
 - Qual o segmento da loja do cliente?
 - Ela vende por atacado ou varejo?
 - Quais categorias de produtos ela vende?
 
+
 ### Sobre a presença online e offline dessa marca
+
 - Como é a presença online dessa marca? De que forma ela busca se comunicar com os usuários?
 - Como é a identidade visual dessa marca? De que forma ela trabalha e reforça os principais elementos?
 - Se ela possuir uma loja física, como ela se parece? Qual a experiência buscada dentro dela?
 
 Essas informações eram coletadas através dos perfis de rede sociais, de lojas virtuais anteriores do cliente e qualquer outro site que tivesse informações diretamente relacionadas à loja do cliente.
 
+
 ## 1.1 - Alinhamento e entrevista com cliente
+
 Na data combinada com a equipe do cliente, normalmente acompanhado por uma colega do marketing, ocorria uma reunião para alinhar informações sobre o projeto e entrevistar o cliente para **entender de forma mais aprofundada sobre informações coletadas até o momento sobre a empresa contratante.**
 
 Durante essa reunião
