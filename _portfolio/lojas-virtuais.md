@@ -1,5 +1,5 @@
 ---
-title: "Como realizar o design para lojas virtuais"
+title: "Construção do design para lojas virtuais"
 excerpt: "Utilização do processo double diamond como adaptações para atender melhor as necessidades dos projetos"
 date: 2022-02-22T23:20:02-05:00
 toc: true
@@ -10,7 +10,7 @@ sidebar:
   - title: "Responsabilidades"
     text: "Concepção e prototipação do layout para as lojas virtuais com base nos dados levantados sobre o comportamento do usuário e no conceito da experiência buscada pela marca do cliente."
 header:
-  image: /assets/images/Bleez/cover.jpg
+  image: /assets/images/Bleez/cover2.jpg
   teaser: /assets/images/Habit Quest/preview-habitquest.png
   caption: "Crédito da imagem: [**Freepik**](https://Freepik.com)"
 related: false
