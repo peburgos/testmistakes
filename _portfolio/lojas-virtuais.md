@@ -10,8 +10,8 @@ sidebar:
   - title: "Responsabilidades"
     text: "Concepção e prototipação do layout para as lojas virtuais com base nos dados levantados sobre o comportamento do usuário e no conceito da experiência buscada pela marca do cliente."
 header:
-  image: /assets/images/Bleez/cover2.jpg
-  teaser: /assets/images/Habit Quest/preview-habitquest.png
+  image: /assets/images/Bleez/cover3.jpg
+  teaser: /assets/images/Bleez/cover3.jpg
   caption: "Crédito da imagem: [**Freepik**](https://Freepik.com)"
 related: false
 categories:
@@ -31,7 +31,7 @@ E posso dizer que durante esse tempo ele **atingiu muito bem os objetivos buscad
 
 ---
 
-Para buscar os resultados desejados, utilizamos como base o processo de design Double Diamond com adaptações para se adequar às características comuns aos projetos, como o nível de desenvolvimento e o prazo estipulado para o cliente.**
+Para buscar os resultados desejados, utilizamos como base o processo de design **Double Diamond com adaptações para se adequar às características comuns aos projetos**, como o nível de desenvolvimento e o prazo estipulado para o cliente.
 
 No geral, o processo possuía apenas 4 etapas: Discover e define, Ideate, Prototype e Handoff.
 
