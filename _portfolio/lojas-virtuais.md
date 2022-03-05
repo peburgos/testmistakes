@@ -11,7 +11,7 @@ sidebar:
     text: "Concepção e prototipação do layout para as lojas virtuais com base nos dados levantados sobre o comportamento do usuário e no conceito da experiência buscada pela marca do cliente."
 header:
   image: /assets/images/Bleez/cover3.jpg
-  teaser: /assets/images/Bleez/cover3.jpg
+  teaser: /assets/images/Bleez/cover.jpg
   caption: "Crédito da imagem: [**Freepik**](https://Freepik.com)"
 related: false
 categories:
