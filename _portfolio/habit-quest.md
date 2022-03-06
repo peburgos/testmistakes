@@ -1,6 +1,6 @@
 ---
 title: "Habit Quest"
-excerpt: "Projeto desenvolvido durante o curso de Sistemas e Mídias Digitais da Universidade Federal do Ceará"
+excerpt: "Aplicativo para incentivar a prática de atividades físicas através do uso da gamificação"
 date: 2022-02-16T23:20:02-05:00
 toc: true
 toc_label: "Índice"
@@ -39,6 +39,8 @@ carrossel-finalizado:
 
 ---
 Esse projeto foi desenvolvido durante a disciplina de Projeto Integrado II do curso de Sistemas e Mídias Digitais da Universidade Federal do Ceará.
+
+O principal conceito do aplicativo é o uso de gamificação como forma de trazer uma progressão visual dos benefícios em se manter praticando atividades físicas
 
 Colaborei com os demais membros principalmente durante o processo de ideação e definição, posterior a isso nos comunicamos para compartilhar os progressos obtidos nas pesquisas e no protótipo enquanto eles se dedicavam no desenvolvimento da implementação do aplicativo.
 

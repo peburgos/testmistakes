@@ -1,6 +1,6 @@
 ---
 title: "Design de lojas virtuais"
-excerpt: "Processo double diamond adaptado que utilizei enquanto parte da Bleez E-Commerce"
+excerpt: "Processo duplo diamante que utilizei enquanto parte da Bleez E-Commerce"
 date: 2022-02-22T23:20:02-05:00
 toc: true
 toc_label: "Índice"
@@ -27,7 +27,7 @@ E posso dizer que durante esse tempo ele **atingiu muito bem os objetivos buscad
 - apenas **13%** das lojas solicitaram correções ao layout depois deles já estarem completamente implementado
 
 
-Caso queira visualizar algumas lojas virtuais feitas com base nesse processo, selecione "Exemplos de lojas finalizadas" através do índice disponibilizado
+> Caso queira visualizar algumas lojas virtuais feitas com base nesse processo, selecione "Exemplos de lojas finalizadas" através do índice disponibilizado
 
 # Sobre o processo
 
@@ -78,7 +78,7 @@ Essas informações eram coletadas através dos perfis de rede sociais, de lojas
 
 ## 1.1 - Alinhamento e entrevista com cliente
 
-Na data combinada com a equipe do cliente, normalmente acompanhado por uma colega do marketing, ocorria uma reunião para alinhar informações sobre o projeto e entrevistar o cliente para **entender de forma mais aprofundada sobre informações coletadas até o momento sobre a empresa contratante.**
+Na data combinada com a equipe do cliente, e normalmente acompanhado por uma colega do marketing, participava de uma reunião para alinhar informações sobre o projeto com o cliente e conseguir **entender de forma mais aprofundada sobre informações coletadas até o momento sobre a empresa contratante.**
 
 **Durante essa reunião solicitávamos alguns dados sobre o comportamento do usuários atuais**, tais como quais eram os produtos mais vendidos e mais procurados (caso já tivesse um e-commerce), dados demográficos sobre os usuários e canais de venda atuais.
 
@@ -90,6 +90,7 @@ Por exemplo, **se embasando em dados** de uma listagem com os termos mais buscad
 </figure>
 
 ## 1.2 - Persona e relatório do marketing
+Após o alinhamento e recebimento das informações do cliente, o marketing organizava um relatório com informações coletadas através de entrevistas com usuários via telefone, comentários em rede sociais e informações comerciais sobre as metas estabelecidas para a nova loja virtual. Dentre as informações contidas nesse relatório havia a persona montada para esse projeto, montada com base nas informações coletadas.
 
 <figure class="half">
     <a href="/assets/images/Bleez/persona1.png"><img src="/assets/images/Bleez/persona1.png"></a>
@@ -97,10 +98,17 @@ Por exemplo, **se embasando em dados** de uma listagem com os termos mais buscad
     <figcaption>Rascunho e wireframe da tela de "Início"</figcaption>
 </figure>
 
+Tendo a persona definida, e todos os principais desafios do projeto já mapeados, o conceito da loja virtual estava definido e seria o momento de começar a definir os detalhes.
+
+Ou seja, já que o problema geral de "como fazer uma loja virtual que solucione esse problema" estava solucionado, estava na hora de começar a se perguntar "como construir cada uma as partes necessárias para materializar o conceito definido"
+
 
 # 2 - Ideate (Problema específico)
 
 ---
+Nessa etapa, o objetivo é **explorar formas de solucionar o problema específico e validar essas ideias de forma ágil**, pois quanto mais cedo grandes mudanças necessárias ao design são realizadas, menos trabalho precisa ser refeito.
+
+Para realizar isso, primeiro
 
 ## 2.1 - Referências e Moodboard
 
@@ -108,6 +116,8 @@ Por exemplo, **se embasando em dados** de uma listagem com os termos mais buscad
 
 
 # 3 - Prototype
+
+---
 
 ## 3.1 - Protótipo padrão
 
@@ -123,6 +133,7 @@ Por exemplo, **se embasando em dados** de uma listagem com os termos mais buscad
 ## 4.1 - Para a equipe do cliente
 
 ## 4.2 - Para a equipe de desenvolvimento
+
 
 # 5 - Aprendizados
 
