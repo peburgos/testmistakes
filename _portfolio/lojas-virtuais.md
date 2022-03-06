@@ -18,12 +18,12 @@ categories:
   - portfolio
 
 lojas-finalizadas:
-  - url: /assets/images/Bleez/Soyleh.png
-    image_path: /assets/images/Bleez/Soyleh.png
-  - url: /assets/images/Bleez/Accessus.png
-    image_path: /assets/images/Bleez/Accessus.png
   - url: /assets/images/Bleez/Dvinos.png
     image_path: /assets/images/Bleez/Dvinos.png
+  - url: /assets/images/Bleez/Accessus.png
+    image_path: /assets/images/Bleez/Accessus.png
+  - url: /assets/images/Bleez/Soyleh.png
+    image_path: /assets/images/Bleez/Soyleh.png
   - url: /assets/images/Bleez/Montreal.png
     image_path: /assets/images/Bleez/Montreal.png
   - url: /assets/images/Bleez/Aviarte.png
@@ -42,7 +42,7 @@ E posso dizer que durante esse tempo ele **atingiu muito bem os objetivos buscad
 - apenas **13%** das lojas solicitaram correções após a implementação do layout
 
 
-> Caso queira visualizar algumas lojas virtuais feitas com base nesse processo, selecione "Exemplos de lojas finalizadas" através do índice disponibilizado
+> Caso queira visualizar algumas lojas virtuais feitas com base nesse processo, selecione "Prototype" através do índice disponibilizado
 
 # Sobre o processo
 
@@ -101,7 +101,7 @@ Por exemplo, **se embasando em dados** de uma listagem com os termos mais buscad
 
 <figure>
 	<a href="/assets/images/Bleez/dados-filtro.png"><img src="/assets/images/Bleez/dados-filtro.png"></a>
-	<figcaption>Acesse os dados da entrevista completa</figcaption>
+	<figcaption>Dados sobre termos pesquisados no e-commerce anterior do cliente</figcaption>
 </figure>
 
 ## 1.2 - Persona e relatório do marketing
@@ -143,7 +143,7 @@ Além disso, a etapa de wireframe também facilita **validar a ideia com a equip
 <figure class="half">
     <a href="/assets/images/Bleez/wire1.png"><img src="/assets/images/Bleez/wire1.png"></a>
     <a href="/assets/images/Bleez/wire2.png"><img src="/assets/images/Bleez/wire2.png"></a>
-    <figcaption>Wireframe lado a lado do design finalizado"</figcaption>
+    <figcaption>Wireframe lado a lado do design finalizado</figcaption>
 </figure>
 
 
@@ -151,26 +151,35 @@ Além disso, a etapa de wireframe também facilita **validar a ideia com a equip
 
 ---
 
+Como todos os problemas (sejam gerais ou específicos) já resolvidos devido aos processos das outras etapas, a etapa de prototipação é simplesmente uma continuação natural da lógica utilizada até o momento.
 
+É uma etapa que objetiva **executar e por na prática todas as soluções concebidas até agora,** e em que o protótipo (que é o principal objetivo do processo) é finalizado e apresentado ao cliente.
 
+Os seguintes elementos são **adicionados em cima do que foi construído até agora no wireframe**:
+- cores e tipografia definitiva
+- elementos gráficos da identidade visual
+- imagens e iconografia
 
-## 3.1 - Lojas finalizadas
+A seguir estão alguns exemplos da página inicial de lojas virtuais que foram criadas seguindo os passos do processo explicado até agora.
 
-{% include gallery id="lojas-finalizadas" caption="This is a second gallery example with images hosted externally." %}
-
-
-## 3.2 - Funcionalidades extras
-
+{% include gallery id="lojas-finalizadas" %}
 
 # 4 - Documentação e Handoff
 
 ---
 
-## 4.1 - Para a equipe do cliente
+Pra mim, sempre foi de extrema importância proporcionar uma **boa experiência não apenas para os clientes, e sim para todas as pessoas envolvidas,** independente de quem ou de qual cargo seja.
 
-## 4.2 - Para a equipe de desenvolvimento
+Dessa forma, busquei continuamente formas para facilitar ao máximo aos front-ends que recebiam as especificações de design para realizarem o trabalho da implementação da forma mais fácil e rápida que estava ao meu alcance.
 
+Além de uma nomenclatura clara e simples de camadas e arquivos, percebi que **uma das coisas que mais faziam as pessoas da equipe front-end gastarem tempo era com os espaçamentos**, já que haviam uma quantidade muito grande e que precisavam ser cuidadosamente analisada um a um.
 
-# 5 - Aprendizados
+Com base nisso, por iniciativa minha passei a criar incluir dentro da documentação uma versão do design que deixava o tamanho dos espaçamentos bem mais fáceis de serem identificados, e que a própria equipe de front-end percebeu e relatou o quanto isso foi **importante para agilizar as entregas do time.**
+
+<figure class="half">
+    <a href="/assets/images/Bleez/handoff1.png"><img src="/assets/images/Bleez/handoff1.png"></a>
+    <a href="/assets/images/Bleez/handoff2.png"><img src="/assets/images/Bleez/handoff2.png"></a>
+    <figcaption>Versão com e sem os espaçamentos visíveis</figcaption>
+</figure>
 
 ---

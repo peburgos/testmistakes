@@ -20,33 +20,27 @@ categories:
 carrossel-finalizado:
   - url: /assets/images/Habit Quest/finalizado - tela de inicio.png
     image_path: /assets/images/Habit Quest/finalizado - tela de inicio.png
-    alt: "Black and grays with a hint of green"
   - url: /assets/images/Habit Quest/finalizado - tela de leaderboard.png
     image_path: /assets/images/Habit Quest/finalizado - tela de leaderboard.png
-    alt: "Made for open text placement"
   - url: /assets/images/Habit Quest/finalizado - tela de progressão.png
     image_path: /assets/images/Habit Quest/finalizado - tela de progressão.png
-    alt: "Fog in the trees"
   - url: /assets/images/Habit Quest/finalizado - tela de estatísticas.png
     image_path: /assets/images/Habit Quest/finalizado - tela de estatísticas.png
-    alt: "Fog in the trees"
   - url: /assets/images/Habit Quest/finalizado - tela de coleção.png
     image_path: /assets/images/Habit Quest/finalizado - tela de coleção.png
-    alt: "Fog in the trees"
   - url: /assets/images/Habit Quest/finalizado - tela de conquistas.png
     image_path: /assets/images/Habit Quest/finalizado - tela de conquistas.png
-    alt: "Fog in the trees"
 
 ---
 Esse projeto foi desenvolvido durante a disciplina de Projeto Integrado II do curso de Sistemas e Mídias Digitais da Universidade Federal do Ceará.
 
-O principal conceito do aplicativo é o uso de gamificação como forma de trazer uma progressão visual dos benefícios em se manter praticando atividades físicas
+O principal conceito do aplicativo é o **uso de gamificação como forma de trazer uma progressão visual dos benefícios em se construir e manter o hábito de praticar atividades físicas.**
 
 Colaborei com os demais membros principalmente durante o processo de ideação e definição, posterior a isso nos comunicamos para compartilhar os progressos obtidos nas pesquisas e no protótipo enquanto eles se dedicavam no desenvolvimento da implementação do aplicativo.
 
 **As imagens a seguir são as telas do aplicativo com o design finalizado, e em seguida a descrição sobre processo utilizado na construção delas**
 
-{% include gallery id="carrossel-finalizado" caption="This is a second gallery example with images hosted externally." %}
+{% include gallery id="carrossel-finalizado" caption="Telas finalizadas do aplicativo Habit Quest" %}
 
 
 {% comment %}
@@ -121,7 +115,7 @@ Por exemplo, **com base nos dados sobre o teste no fluxo de editar os dias de um
 
 <figure>
 	<a href="/assets/images/Habit Quest/MazeReport.png"><img src="/assets/images/Habit Quest/MazeReport.png"></a>
-	<figcaption><a href="https://app.maze.co/report/9afd1akehg6qvd/#intro" title="Confira o relatório completo do teste de usabilidade">Confira o relatório completo do teste de usabilidade no Maze</a></figcaption>
+	<figcaption><a href="https://app.maze.co/report/9afd1akehg6qvd/#intro" title="Confira o relatório completo do teste de usabilidade no Maze">Confira o relatório completo do teste de usabilidade no Maze</a></figcaption>
 </figure>
 
 # 3 - Ajustes e refinamento de telas
