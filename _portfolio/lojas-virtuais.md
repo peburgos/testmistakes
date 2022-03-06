@@ -113,8 +113,8 @@ Para realizar isso é sempre bom pesquisar e utilizar referências para ter idei
 Após a coleta de referências relacionadas aos problemas específicos que havia mapeado, é necessário **organizar elas em moodboards para facilitar sua utilização durante a prototipação**da interface.
 
 <figure class="half">
-    <a href="/assets/images/Bleez/referências2.png"><img src="/assets/images/Bleez/referências2.png"></a>
     <a href="/assets/images/Bleez/referências1.png"><img src="/assets/images/Bleez/referências1.png"></a>
+    <a href="/assets/images/Bleez/referências2.png"><img src="/assets/images/Bleez/referências2.png"></a>
     <figcaption>Moodboard com referências utilizadas, e ao lado uma parte do design final embasado nelas"</figcaption>
 </figure>
 
@@ -123,9 +123,11 @@ Continuando a exploração de ideias, e agora com as referências necessárias j
 - quais elementos seriam priorizados e ficariam visíveis sem o usuário rolar a página
 - espaçamentos e margens da grid utilizada
 
+Além disso, a etapa de wireframe também facilita **validar a ideia com a equipe de desenvolvimento,** podendo sofrer alguns ajustes para se adequar mais facilmente ao contexto de desenvolvimento.
+
 <figure class="half">
-    <a href="/assets/images/Bleez/wire2.png"><img src="/assets/images/Bleez/wire2.png"></a>
     <a href="/assets/images/Bleez/wire1.png"><img src="/assets/images/Bleez/wire1.png"></a>
+    <a href="/assets/images/Bleez/wire2.png"><img src="/assets/images/Bleez/wire2.png"></a>
     <figcaption>Wireframe lado a lado do design finalizado"</figcaption>
 </figure>
 
@@ -136,9 +138,8 @@ Continuando a exploração de ideias, e agora com as referências necessárias j
 
 
 
-## 3.1 - Protótipo padrão
 
-### Exemplos de lojas finalizadas
+## 3.1 - Lojas finalizadas
 
 ## 3.2 - Funcionalidades extras
 
