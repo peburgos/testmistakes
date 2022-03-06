@@ -1,6 +1,6 @@
 ---
-title: "Design de lojas virtuais"
-excerpt: "Projetos durante meu tempo na Bleez E-Commerce"
+title: "Design para e-commerce"
+excerpt: "Processo utilizando enquanto parte da Bleez E-Commerce"
 date: 2022-02-22T23:20:02-05:00
 toc: true
 toc_label: "Índice"
@@ -24,7 +24,7 @@ Esse processo de design foi utilizado para projetar lojas virtuais de 22 empresa
 E posso dizer que durante esse tempo ele **atingiu muito bem os objetivos buscados**:
 - **82%** dos layouts foram aprovados sem nenhuma solicitação de alteração
 - **todos** os designs foram entregues dentro do prazo
-- apenas **13%** das lojas solicitaram correções ao layout depois de completamente implementado
+- apenas **13%** das lojas solicitaram correções ao layout depois deles já estarem completamente implementado
 
 
 # Sobre o processo
@@ -88,8 +88,8 @@ Por exemplo, **se embasando em dados** de uma listagem com os termos mais buscad
 ## 1.2 - Recebimento da persona
 
 <figure class="half">
-    <a href="/assets/images/persona1/persona2.png"><img src="/assets/images/Bleez/persona2.png"></a>
-    <a href="/assets/images/persona2/persona1.png"><img src="/assets/images/Bleez/persona1.png"></a>
+    <a href="/assets/images/Bleez/persona1.png"><img src="/assets/images/Bleez/persona1.png"></a>
+    <a href="/assets/images/Bleez/persona2.png"><img src="/assets/images/Bleez/persona2.png"></a>
     <figcaption>Rascunho e wireframe da tela de "Início"</figcaption>
 </figure>
 
