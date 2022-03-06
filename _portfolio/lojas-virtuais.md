@@ -85,7 +85,7 @@ Por exemplo, **se embasando em dados** de uma listagem com os termos mais buscad
 	<figcaption>Acesse os dados da entrevista completa</figcaption>
 </figure>
 
-## 1.2 - Recebimento da persona
+## 1.2 - Persona e relatório do marketing
 
 <figure class="half">
     <a href="/assets/images/Bleez/persona1.png"><img src="/assets/images/Bleez/persona1.png"></a>
@@ -104,8 +104,6 @@ Por exemplo, **se embasando em dados** de uma listagem com os termos mais buscad
 
 
 # 3 - Prototype
-
----
 
 ## 3.1 - Protótipo padrão
 
