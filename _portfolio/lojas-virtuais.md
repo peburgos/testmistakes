@@ -110,7 +110,7 @@ Após o alinhamento e recebimento das informações do cliente, o marketing orga
 <figure class="half">
     <a href="/assets/images/Bleez/persona1.png"><img src="/assets/images/Bleez/persona1.png"></a>
     <a href="/assets/images/Bleez/persona2.png"><img src="/assets/images/Bleez/persona2.png"></a>
-    <figcaption>Persona desenvolvida pela equipe de marketing sobre comportamento de compra dos usuários"</figcaption>
+    <figcaption>Persona desenvolvida pela equipe de marketing com base no comportamento de compra realizado pelos usuários</figcaption>
 </figure>
 
 Tendo a persona definida, e todos os principais desafios do projeto já mapeados, o conceito da loja virtual estava definido e seria o momento de começar a definir os detalhes.
