@@ -23,8 +23,8 @@ Esse processo de design foi utilizado para projetar lojas virtuais de 22 empresa
 
 E posso dizer que durante esse tempo ele **atingiu muito bem os objetivos buscados**:
 - **82%** dos layouts foram aprovados sem nenhuma solicitação de alteração
-- **todos** os designs entregues dentro do prazo
-- apenas **13%** das lojas solicitaram correções ao layout depois de entregue
+- **todos** os designs foram entregues dentro do prazo
+- apenas **13%** das lojas solicitaram correções ao layout depois de completamente implementado
 
 
 # Sobre o processo
@@ -47,7 +47,7 @@ Para isso, era necessário construir algumas premissas para começar a entender 
 - a solução final obrigatoriamente seria uma loja virtual, pois era o que havia sido acordado no contrato;
 - caso o cliente não tivesse contratado, ao menos no primeiro momento não haveria desenvolvimento de funcionalidades para os problemas específicos que ele enfrentava.
 
-**Com base nisso, o escopo do problema geral a ser descoberto se reduzia bastante em comparação a um discovery mais completo** e considerávamos que as tradicionais etapas de descobrir sobre o problema e de definir o problema se tornavam uma única etapa* (pois o problema passava de "qual solução tecnológica ou analógica resolveria o problema" para **"como fazer uma loja virtual que solucione esse problema"**).
+Com base nisso, **o escopo do problema geral a ser descoberto se reduzia bastante em comparação a um discovery mais completo** e considerávamos que as tradicionais etapas de descobrir sobre o problema e de definir o problema se tornavam uma única etapa* (pois o problema passava de "qual solução tecnológica ou analógica resolveria o problema" para **"como fazer uma loja virtual que solucione esse problema"**).
 
 Buscando começar a entender as complicações do problema e levantar possíveis dúvidas e dados a serem pedidos durante a entrevista com o cliente, começava o levantamento preliminar.
 
@@ -82,10 +82,16 @@ Por exemplo, **se embasando em dados** de uma listagem com os termos mais buscad
 
 <figure>
 	<a href="/assets/images/Bleez/dados-filtro.png"><img src="/assets/images/Bleez/dados-filtro.png"></a>
-	<figcaption> title="Acesse os dados da entrevista completa">Acesse os dados da entrevista completa</figcaption>
+	<figcaption>Acesse os dados da entrevista completa</figcaption>
 </figure>
 
-## 1.2 - Recebimento de informações do marketing
+## 1.2 - Recebimento da persona
+
+<figure class="half">
+    <a href="/assets/images/persona1/persona2.png"><img src="/assets/images/Bleez/persona2.png"></a>
+    <a href="/assets/images/persona2/persona1.png"><img src="/assets/images/Bleez/persona1.png"></a>
+    <figcaption>Rascunho e wireframe da tela de "Início"</figcaption>
+</figure>
 
 
 # 2 - Ideate (Problema específico)
@@ -96,6 +102,7 @@ Por exemplo, **se embasando em dados** de uma listagem com os termos mais buscad
 
 ## 2.2 - Exemplo de wireframe
 
+
 # 3 - Prototype
 
 ---
@@ -103,6 +110,7 @@ Por exemplo, **se embasando em dados** de uma listagem com os termos mais buscad
 ## 3.1 - Protótipo padrão
 
 ## 3.2 - Funcionalidades extras
+
 
 # 4 - Documentação e Handoff
 
