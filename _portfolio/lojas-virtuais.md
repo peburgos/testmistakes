@@ -105,12 +105,12 @@ Por exemplo, **se embasando em dados** de uma listagem com os termos mais buscad
 </figure>
 
 ## 1.2 - Persona e relatório do marketing
-Após o alinhamento e recebimento das informações do cliente, o marketing organizava um relatório com informações coletadas através de entrevistas com usuários via telefone, comentários em rede sociais e informações comerciais sobre as metas estabelecidas para a nova loja virtual. Dentre as informações contidas nesse relatório havia a persona montada para esse projeto, montada com base nas informações coletadas.
+Após o alinhamento e recebimento das informações do cliente, o marketing organizava um relatório com informações coletadas através de entrevistas com usuários via telefone, comentários em rede sociais e informações comerciais sobre as metas estabelecidas para a nova loja virtual. Dentre as informações contidas nesse relatório havia a **persona montada para esse projeto, montada com base nas informações coletadas.**
 
 <figure class="half">
     <a href="/assets/images/Bleez/persona1.png"><img src="/assets/images/Bleez/persona1.png"></a>
     <a href="/assets/images/Bleez/persona2.png"><img src="/assets/images/Bleez/persona2.png"></a>
-    <figcaption>Rascunho e wireframe da tela de "Início"</figcaption>
+    <figcaption>Persona desenvolvida pela equipe de marketing sobre comportamento de compra dos usuários"</figcaption>
 </figure>
 
 Tendo a persona definida, e todos os principais desafios do projeto já mapeados, o conceito da loja virtual estava definido e seria o momento de começar a definir os detalhes.
@@ -168,7 +168,7 @@ A seguir estão alguns exemplos da página inicial de lojas virtuais que foram c
 
 ---
 
-Pra mim, sempre foi de extrema importância proporcionar uma **boa experiência não apenas para os clientes, e sim para todas as pessoas envolvidas,** independente de quem ou de qual cargo seja.
+Pra mim, sempre foi de extrema importância proporcionar **uma boa experiência não apenas para os clientes, e sim para todas as pessoas envolvidas,** independente de quem ou de qual cargo seja.
 
 Dessa forma, busquei continuamente formas para facilitar ao máximo aos front-ends que recebiam as especificações de design para realizarem o trabalho da implementação da forma mais fácil e rápida que estava ao meu alcance.
 
