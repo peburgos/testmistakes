@@ -76,14 +76,17 @@ Essas informações eram coletadas através dos perfis de rede sociais, de lojas
 
 Na data combinada com a equipe do cliente, normalmente acompanhado por uma colega do marketing, ocorria uma reunião para alinhar informações sobre o projeto e entrevistar o cliente para **entender de forma mais aprofundada sobre informações coletadas até o momento sobre a empresa contratante.**
 
-Durante essa reunião recebíamos dados sobre o comportamento do usuário
+**Durante essa reunião solicitávamos alguns dados sobre o comportamento do usuários atuais**, tais como quais eram os produtos mais vendidos e mais procurados (caso já tivesse um e-commerce), dados demográficos sobre os usuários e canais de venda atuais.
+
+Por exemplo, **se embasando em dados** de uma listagem com os termos mais buscados de um e-commerce atual **fica exatamente claro na hora de se tomar a decisão** sobre quais seriam os produtos e categorias que a serem priorizados na página inicial da loja virtual.
 
 <figure>
 	<a href="/assets/images/Bleez/dados-filtro.png"><img src="/assets/images/Bleez/dados-filtro.png"></a>
-	<figcaption><a href="https://docs.google.com/document/d/e/2PACX-1vTCXsbuzGsIBDZwuu5nsYMbqUBYWnxvW9focmPjdmnDTgGETXX-QWDBm3slpT_doKapVeld1kXPI8Tk/pub" title="Acesse os dados da entrevista completa">Acesse os dados da entrevista completa</a></figcaption>
+	<figcaption> title="Acesse os dados da entrevista completa">Acesse os dados da entrevista completa</figcaption>
 </figure>
 
-## 1.2 - Recebimento de informações do marketing e do cliente
+## 1.2 - Recebimento de informações do marketing
+
 
 # 2 - Ideate (Problema específico)
 
