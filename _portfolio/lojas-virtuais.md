@@ -17,6 +17,21 @@ related: false
 categories:
   - portfolio
 
+lojas-finalizadas:
+  - url: /assets/images/Bleez/Soyleh.png
+    image_path: /assets/images/Bleez/Soyleh.png
+  - url: /assets/images/Bleez/Accessus.png
+    image_path: /assets/images/Bleez/Accessus.png
+  - url: /assets/images/Bleez/Aviarte.png
+    image_path: /assets/images/Bleez/Aviarte.png
+  - url: /assets/images/Bleez/Dvinos.png
+    image_path: /assets/images/Bleez/Dvinos.png
+  - url: /assets/images/Bleez/Montreal.png
+    image_path: /assets/images/Bleez/Montreal.png
+  - url: /assets/images/Bleez/ProgramaOffice.png
+    image_path: /assets/images/Bleez/ProgramaOffice.png
+
+
 ---
 
 Esse processo de design foi utilizado para projetar lojas virtuais de 24 empresas, que atuavam 12 setores diferentes, ao longo de 20 meses. Ele possuía como principal objetivo **construir um layout assertivo e alinhado com as necessidades do cliente dentro do prazo negociado.**
@@ -140,6 +155,9 @@ Além disso, a etapa de wireframe também facilita **validar a ideia com a equip
 
 
 ## 3.1 - Lojas finalizadas
+
+{% include gallery id="lojas-finalizadas" caption="This is a second gallery example with images hosted externally." %}
+
 
 ## 3.2 - Funcionalidades extras
 
