@@ -1,6 +1,6 @@
 ---
-title: "Design para e-commerce"
-excerpt: "Processo utilizando enquanto parte da Bleez E-Commerce"
+title: "Design de lojas virtuais"
+excerpt: "Processo double diamond adaptado que utilizei enquanto parte da Bleez E-Commerce"
 date: 2022-02-22T23:20:02-05:00
 toc: true
 toc_label: "Índice"
@@ -27,13 +27,15 @@ E posso dizer que durante esse tempo ele **atingiu muito bem os objetivos buscad
 - apenas **13%** das lojas solicitaram correções ao layout depois deles já estarem completamente implementado
 
 
+Caso queira visualizar algumas lojas virtuais feitas com base nesse processo, selecione "Exemplos de lojas finalizadas" através do índice disponibilizado
+
 # Sobre o processo
 
 ---
 
 Para buscar os resultados desejados, utilizamos como base o processo de design **Double Diamond com adaptações para se adequar às características comuns aos projetos**, como o nível de desenvolvimento e o prazo estipulado para o cliente.
 
-No geral, o processo possuía apenas 4 etapas: Discover e define, Ideate, Prototype e Handoff.
+No geral, o processo possuía 4 etapas principais: Discover e define, Ideate, Prototype e Handoff.
 
 inserir aqui imagem do fluxo
 
@@ -47,7 +49,9 @@ Para isso, era necessário construir algumas premissas para começar a entender 
 - a solução final obrigatoriamente seria uma loja virtual, pois era o que havia sido acordado no contrato;
 - caso o cliente não tivesse contratado, ao menos no primeiro momento não haveria desenvolvimento de funcionalidades para os problemas específicos que ele enfrentava.
 
-Com base nisso, **o escopo do problema geral a ser descoberto se reduzia bastante em comparação a um discovery mais completo** e considerávamos que as tradicionais etapas de descobrir sobre o problema e de definir o problema se tornavam uma única etapa* (pois o problema passava de "qual solução tecnológica ou analógica resolveria o problema" para **"como fazer uma loja virtual que solucione esse problema"**).
+Com base nisso, **o escopo do problema geral a ser descoberto se reduzia bastante em comparação a um discovery mais completo**.
+
+Considerávamos que as tradicionais etapas de descobrir sobre o problema e de definir o problema se tornavam uma única etapa (pois o problema passava de "qual solução tecnológica ou analógica resolveria o problema" para **"como fazer uma loja virtual que solucione esse problema"**).
 
 Buscando começar a entender as complicações do problema e levantar possíveis dúvidas e dados a serem pedidos durante a entrevista com o cliente, começava o levantamento preliminar.
 
@@ -106,6 +110,8 @@ Por exemplo, **se embasando em dados** de uma listagem com os termos mais buscad
 # 3 - Prototype
 
 ## 3.1 - Protótipo padrão
+
+### Exemplos de lojas finalizadas
 
 ## 3.2 - Funcionalidades extras
 
