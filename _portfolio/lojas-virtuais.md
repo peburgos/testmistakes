@@ -22,10 +22,10 @@ lojas-finalizadas:
     image_path: /assets/images/Bleez/Soyleh.png
   - url: /assets/images/Bleez/Accessus.png
     image_path: /assets/images/Bleez/Accessus.png
-  - url: /assets/images/Bleez/Aviarte.png
-    image_path: /assets/images/Bleez/Aviarte.png
   - url: /assets/images/Bleez/Dvinos.png
     image_path: /assets/images/Bleez/Dvinos.png
+  - url: /assets/images/Bleez/Aviarte.png
+    image_path: /assets/images/Bleez/Aviarte.png
   - url: /assets/images/Bleez/Montreal.png
     image_path: /assets/images/Bleez/Montreal.png
   - url: /assets/images/Bleez/ProgramaOffice.png
