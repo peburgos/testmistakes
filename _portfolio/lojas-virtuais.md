@@ -1,6 +1,6 @@
 ---
 title: "Design de lojas virtuais"
-excerpt: "Processo duplo diamante que utilizei enquanto parte da Bleez E-Commerce"
+excerpt: "Processo utilizado enquanto parte da Bleez E-Commerce"
 date: 2022-02-22T23:20:02-05:00
 toc: true
 toc_label: "Índice"
@@ -19,12 +19,12 @@ categories:
 
 ---
 
-Esse processo de design foi utilizado para projetar lojas virtuais de 22 empresas, que atuavam 11 setores diferentes, ao longo de 20 meses. Ele possuía como principal objetivo **construir um layout assertivo e alinhado com as necessidades do cliente dentro do prazo negociado.**
+Esse processo de design foi utilizado para projetar lojas virtuais de 24 empresas, que atuavam 12 setores diferentes, ao longo de 20 meses. Ele possuía como principal objetivo **construir um layout assertivo e alinhado com as necessidades do cliente dentro do prazo negociado.**
 
 E posso dizer que durante esse tempo ele **atingiu muito bem os objetivos buscados**:
 - **82%** dos layouts foram aprovados sem nenhuma solicitação de alteração
 - **todos** os designs foram entregues dentro do prazo
-- apenas **13%** das lojas solicitaram correções ao layout depois deles já estarem completamente implementado
+- apenas **13%** das lojas solicitaram correções após a implementação do layout
 
 
 > Caso queira visualizar algumas lojas virtuais feitas com base nesse processo, selecione "Exemplos de lojas finalizadas" através do índice disponibilizado
@@ -100,7 +100,7 @@ Após o alinhamento e recebimento das informações do cliente, o marketing orga
 
 Tendo a persona definida, e todos os principais desafios do projeto já mapeados, o conceito da loja virtual estava definido e seria o momento de começar a definir os detalhes.
 
-Ou seja, já que o problema geral de "como fazer uma loja virtual que solucione esse problema" estava solucionado, estava na hora de começar a se perguntar "como construir cada uma as partes necessárias para materializar o conceito definido"
+Ou seja, já que o problema geral de "como fazer uma loja virtual que solucione esse problema" estava solucionado, estava na hora de **começar a se perguntar "como construir cada uma as partes necessárias para materializar o conceito definido"**
 
 
 # 2 - Ideate (Problema específico)
@@ -108,16 +108,33 @@ Ou seja, já que o problema geral de "como fazer uma loja virtual que solucione 
 ---
 Nessa etapa, o objetivo é **explorar formas de solucionar o problema específico e validar essas ideias de forma ágil**, pois quanto mais cedo grandes mudanças necessárias ao design são realizadas, menos trabalho precisa ser refeito.
 
-Para realizar isso, primeiro
+Para realizar isso é sempre bom pesquisar e utilizar referências para ter ideias novas e diferentes de soluções, e deixar a forma mais clara a forma que o conceito definido vai ser materializado.
 
-## 2.1 - Referências e Moodboard
+Após a coleta de referências relacionadas aos problemas específicos que havia mapeado, é necessário **organizar elas em moodboards para facilitar sua utilização durante a prototipação**da interface.
 
-## 2.2 - Exemplo de wireframe
+<figure class="half">
+    <a href="/assets/images/Bleez/referências2.png"><img src="/assets/images/Bleez/referências2.png"></a>
+    <a href="/assets/images/Bleez/referências1.png"><img src="/assets/images/Bleez/referências1.png"></a>
+    <figcaption>Moodboard com referências utilizadas, e ao lado uma parte do design final embasado nelas"</figcaption>
+</figure>
+
+Continuando a exploração de ideias, e agora com as referências necessárias já a mão, é preciso **começar a resolver problemas relacionados à hierarquia das informações.** Buscando resolver esses problemas o mais cedo quanto possível, a criação de wireframes já trazia a solução para problemas de:
+- quais seriam o tamanho dos elementos e onde estariam posicionados
+- quais elementos seriam priorizados e ficariam visíveis sem o usuário rolar a página
+- espaçamentos e margens da grid utilizada
+
+<figure class="half">
+    <a href="/assets/images/Bleez/wire2.png"><img src="/assets/images/Bleez/wire2.png"></a>
+    <a href="/assets/images/Bleez/wire1.png"><img src="/assets/images/Bleez/wire1.png"></a>
+    <figcaption>Wireframe lado a lado do design finalizado"</figcaption>
+</figure>
 
 
 # 3 - Prototype
 
 ---
+
+
 
 ## 3.1 - Protótipo padrão
 
