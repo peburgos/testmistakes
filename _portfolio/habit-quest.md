@@ -64,7 +64,7 @@ Recrutamos participantes para a entrevista estruturada através de um grupo de a
 	<figcaption><a href="https://docs.google.com/document/d/e/2PACX-1vTCXsbuzGsIBDZwuu5nsYMbqUBYWnxvW9focmPjdmnDTgGETXX-QWDBm3slpT_doKapVeld1kXPI8Tk/pub" title="Acesse os dados da entrevista completa">Acesse os dados da entrevista completa</a></figcaption>
 </figure>
 
-## Resultados obtidos
+## Insights obtidos
 
 Descobrimos que um dos principais motivos de desistência e desmotivação para esse público é a **falta recursos visuais que lhe apresentassem de forma clara a progressão** em seu exercício, faltando também **feedbacks mais imediatos sobre a sua performance** .
 
