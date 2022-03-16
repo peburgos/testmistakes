@@ -52,8 +52,6 @@ Para buscar os resultados desejados, utilizamos como base o processo de design *
 
 No geral, o processo possuía 4 etapas principais: Discover e define, Ideate, Prototype e Handoff.
 
-inserir aqui imagem do fluxo
-
 # 1 - Discover/Define  (Problema geral)
 
 ---
