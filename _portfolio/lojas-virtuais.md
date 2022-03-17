@@ -126,8 +126,8 @@ Para realizar isso é sempre bom pesquisar e utilizar referências para ter idei
 Após a coleta de referências relacionadas aos problemas específicos que havia mapeado, é necessário **organizar elas em moodboards para facilitar sua utilização durante a prototipação**da interface.
 
 <figure class="half">
-    <a href="/assets/images/Bleez/referências1.png"><img src="/assets/images/Bleez/referências1.png"></a>
     <a href="/assets/images/Bleez/referências2.png"><img src="/assets/images/Bleez/referências2.png"></a>
+    <a href="/assets/images/Bleez/referências3.png"><img src="/assets/images/Bleez/referências3.png"></a>
     <figcaption>Moodboard com referências utilizadas, e ao lado uma parte do design final embasado nelas"</figcaption>
 </figure>
 
