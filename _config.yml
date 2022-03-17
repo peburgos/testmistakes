@@ -81,6 +81,13 @@ collections:
     output: true
     permalink: /:collection/:path/
 
+analytics:
+  provider: "google"
+  google:
+    tracking_id: "G-8H6SQYDJNR"
+    anonymize_ip: false # default
+
+
 defaults:
   # _posts
   - scope:
