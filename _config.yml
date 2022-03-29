@@ -84,8 +84,8 @@ collections:
 analytics:
   provider: "google"
   google:
-    tracking_id: "G-KDYZVJY798"
-    anonymize_ip: true # default
+    tracking_id: "GTM-PWJBSNL"
+    anonymize_ip: false # default
 
 
 defaults:
