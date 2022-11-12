@@ -75,7 +75,7 @@ author:
     #  url: "https://medium.com/@pburgos"
     - label: "Mastodon"
       icon: "fab fa-fw fa-mastodon"
-      url: "<a rel="me" href="https://mastodon.social/@pburgos"</a>"
+      url: "https://mastodon.social/@pburgos"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/pe-burgos/"
