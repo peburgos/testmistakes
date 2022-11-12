@@ -70,8 +70,8 @@ author:
   location : "Fortaleza, CE"
   links:
     - label: "Mastodon"
-      icon: "<a rel="me" href="https://mastodon.social/@pburgos"></a>"
-      url: "https://medium.com/@pburgos"
+      icon: "fab fa-fw fa-mastodon"
+      url: "<a rel="me" href="https://mastodon.social/@pburgos">Mastodon</a>"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/pe-burgos/"
