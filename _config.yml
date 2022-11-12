@@ -73,7 +73,6 @@ author:
     #- label: "Medium"
     #  icon: "fab fa-fw fa-medium"
     #  url: "https://medium.com/@pburgos"
-  #
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/pe-burgos/"
