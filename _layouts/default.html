@@ -8,13 +8,14 @@
   Free for personal and commercial use under the MIT license
   https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
 -->
-<html lang="{{ site.locale | slice: 0,2 | default: "en" }}" class="no-js">
+<html lang="{{ site.locale | slice: 0,2 | default: "pt-BR" }}" class="no-js">
   <head>
     <!-- Google Tag Manager -->
     <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-PWJBSNL');</script>
     <!-- End Google Tag Manager -->
     {% include head.html %}
     {% include head/custom.html %}
+    <a rel="me" href="https://mastodon.social/@pburgos"></a>
   </head>
 
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
@@ -37,7 +38,6 @@
     <div id="footer" class="page__footer">
       <footer>
         {% include footer/custom.html %}
-        <i class="fab fa-mastodon"><a rel="me" href="https://mastodon.social/@pburgos"></a></i>
         {% include_cached footer.html %}
       </footer>
     </div>
