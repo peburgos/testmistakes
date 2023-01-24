@@ -1,7 +1,7 @@
 ---
 title: "Design de lojas virtuais"
 excerpt: "Processo utilizado enquanto parte da Bleez E-Commerce"
-date: 2022-02-22T23:20:02-05:00
+date: 2022-03-22T23:20:02-05:00
 toc: true
 toc_label: "Índice"
 sidebar:
