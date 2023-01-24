@@ -1,7 +1,7 @@
 ---
 title: "Habit Quest"
 excerpt: "Aplicativo para incentivar a prática de atividades físicas através do uso da gamificação"
-date: 2023-01-24T13:20:02-05:00
+date: 2023-01-24T13:13:02-05:00
 toc: true
 toc_label: "Índice"
 sidebar:
