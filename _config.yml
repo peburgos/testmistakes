@@ -69,9 +69,9 @@ author:
   bio    : "UX Designer, contextualizando tecnologia para pessoas"
   location : "Fortaleza, CE"
   links:
-    - label: "Mastodon"
-      icon: "fab fa-fw fa-mastodon"
-      url: "https://mstdn.social/@pburgos"
+    #- label: "Mastodon"
+    #  icon: "fab fa-fw fa-mastodon"
+    #  url: "https://mstdn.social/@pburgos"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/pe-burgos/"
