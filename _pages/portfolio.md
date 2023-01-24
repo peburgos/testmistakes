@@ -11,4 +11,4 @@ Aqui estão listados alguns projetos comerciais que realizei até o momento *(re
 
 Você também pode visualizar de forma rápida através da apresentação de slides a seguir:
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQGa1Q0ujDl3GVRrXjosF7wmwApik9ZF3ZcURJI7RwlYcJvVYkRWugAhT85uZIiJEic3UJwj6MlGezP/embed?start=false&loop=false&delayms=15000" frameborder="0" width="1440" height="839" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQGa1Q0ujDl3GVRrXjosF7wmwApik9ZF3ZcURJI7RwlYcJvVYkRWugAhT85uZIiJEic3UJwj6MlGezP/embed?start=false&loop=false&delayms=15000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
