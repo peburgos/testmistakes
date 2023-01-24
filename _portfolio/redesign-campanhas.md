@@ -1,7 +1,7 @@
 ---
 title: "Redesign de campanhas"
 excerpt: "Projeto realizado dentro do time de Produto do Aiqfome/Magazine Luiza"
-date: 2023-03-22T23:20:02-05:00
+date: 2023-01-22T23:20:02-05:00
 toc: true
 toc_label: "Índice"
 sidebar:
