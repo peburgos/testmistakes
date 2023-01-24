@@ -5,11 +5,12 @@ permalink: /portfolio/
 collection: portfolio
 entries_layout: grid
 classes: wide
+author_profile: false
 ---
 
-Aqui estão listados alguns projetos comerciais que realizei até o momento, explicando o processo e algumas decisões que foram tomadas ao participar deles
+Aqui estão listados alguns projetos comerciais e pessoais que realizei até o momento, explicando o processo e algumas decisões que foram tomadas ao participar deles
 
-Você também pode visualizar de forma rápida através da apresentação de slides a seguir:
+Você pode visualizar de forma rápida através da apresentação de slides a seguir um resumo sobre os principais projetos e seus resultados obtidos:
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQGa1Q0ujDl3GVRrXjosF7wmwApik9ZF3ZcURJI7RwlYcJvVYkRWugAhT85uZIiJEic3UJwj6MlGezP/embed?start=false&loop=false&delayms=30000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
