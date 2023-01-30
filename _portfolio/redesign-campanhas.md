@@ -14,8 +14,6 @@ header:
   teaser: /assets/images/Bleez/thumb.png
   caption: "Crédito da imagem: [**Pixabay**](https://www.pexels.com/pt-br/@pixabay)"
 related: false
-categories:
-  - portfolio
 
 ---
 

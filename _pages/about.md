@@ -4,6 +4,8 @@ title: "Sobre mim"
 ---
 *“You cannot understand good design if you do not understand people" - Dieter Rams*
 
-Eu ajudo a tecnologia a se adaptar e se relacionar melhor com as pessoas. Para isso, busco sempre me aprofundar e entender as complexidades de cada contexto com base em dados e métricas, equilibrando o rigor teórico com a necessidade prática
+Meu principal propósito é ajudar a construir uma sociedade mais justa de oportunidades através do uso da tecnologia
 
-Além disso, projeto experiências buscando ao máximo proporcionar uma equidade de oportunidade e importância para pessoas com vivências diversas, me envolvendo e apoiando iniciativas voltadas a acessibilidade, diversidade e inclusão.
+Sou um designer com mais 3 anos de experiência projetando soluções digitais para empresas, com a missão de criar produtos digitais que realmente entregam valor para seus usuários.
+
+Sou formado em Sistemas e Mídias Digitais pela Universidade Federal do Ceará, além de também ter uma passagem pela Ciência da Computação na Universidade Estadual do Ceará.
