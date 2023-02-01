@@ -8,7 +8,7 @@ classes: wide
 author_profile: false
 ---
 
-Aqui estão listados alguns projetos comerciais e pessoais que realizei até o momento, explicando o processo e algumas decisões que foram tomadas ao participar deles
+Aqui estão listados alguns projetos que realizei até o momento, explicando o processo e algumas decisões que foram tomadas ao participar deles
 
 Você pode visualizar um resumo sobre meus principais projetos e quais resultados obtive  de forma rápida através da apresentação de slides a seguir:
 
