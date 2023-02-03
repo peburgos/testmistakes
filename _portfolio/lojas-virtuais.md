@@ -12,6 +12,7 @@ sidebar:
 header:
   image: /assets/images/Bleez/cover.png
   teaser: /assets/images/Bleez/thumb.png
+  alt: "Foto do topo de uma mesa preta, em que repousam um lápis, um smartphone, uma borracha e vários post-its com rascunhos"
   caption: "Crédito da imagem: [**Pixabay**](https://www.pexels.com/pt-br/@pixabay)"
 related: false
 categories:
@@ -98,7 +99,7 @@ Na data combinada com a equipe do cliente, e normalmente acompanhado por uma col
 Por exemplo, **se embasando em dados** de uma listagem com os termos mais buscados de um e-commerce atual **fica exatamente claro na hora de se tomar a decisão** sobre quais seriam os produtos e categorias que a serem priorizados na página inicial da loja virtual.
 
 <figure>
-	<a href="/assets/images/Bleez/dados-filtro.png"><img src="/assets/images/Bleez/dados-filtro.png"></a>
+	<a href="/assets/images/Bleez/dados-filtro.png"><img src="/assets/images/Bleez/dados-filtro.png" alt="Imagem com uma tabela contendo quais foram as palavras mais pesquisadas nesse ecommerce"></a>
 	<figcaption>Dados sobre termos pesquisados no e-commerce anterior do cliente</figcaption>
 </figure>
 
@@ -106,8 +107,8 @@ Por exemplo, **se embasando em dados** de uma listagem com os termos mais buscad
 Após o alinhamento e recebimento das informações do cliente, o marketing organizava um relatório com informações coletadas através de entrevistas com usuários via telefone, comentários em rede sociais e informações comerciais sobre as metas estabelecidas para a nova loja virtual. Dentre as informações contidas nesse relatório havia a **persona montada para esse projeto, montada com base nas informações coletadas.**
 
 <figure class="half">
-    <a href="/assets/images/Bleez/persona1.png"><img src="/assets/images/Bleez/persona1.png"></a>
-    <a href="/assets/images/Bleez/persona2.png"><img src="/assets/images/Bleez/persona2.png"></a>
+    <a href="/assets/images/Bleez/persona1.png"><img src="/assets/images/Bleez/persona1.png" alt="Imagem com a persona de uma mulher fictícia chamada Lara Pessoa, com informações demográficas sobre ela"></a>
+    <a href="/assets/images/Bleez/persona2.png"><img src="/assets/images/Bleez/persona2.png" alt="Imagem com informações sobre comportamentos de Lara Pessoa durante um processo de compra tais como motivadores e desistências de compra"></a>
     <figcaption>Persona desenvolvida pela equipe de marketing com base no comportamento de compra realizado pelos usuários</figcaption>
 </figure>
 
@@ -123,12 +124,12 @@ Nessa etapa, o objetivo é **explorar formas de solucionar o problema específic
 
 Para realizar isso é sempre bom pesquisar e utilizar referências para ter ideias novas e diferentes de soluções, e deixar a forma mais clara a forma que o conceito definido vai ser materializado.
 
-Após a coleta de referências relacionadas aos problemas específicos que havia mapeado, é necessário **organizar elas em moodboards para facilitar sua utilização durante a prototipação**da interface.
+Após a coleta de referências relacionadas aos problemas específicos que havia mapeado, é necessário **organizar elas em moodboards para facilitar sua utilização durante a prototipação** da interface.
 
 <figure class="half">
-    <a href="/assets/images/Bleez/referências2.png"><img src="/assets/images/Bleez/referências2.png"></a>
-    <a href="/assets/images/Bleez/referências3.png"><img src="/assets/images/Bleez/referências3.png"></a>
-    <figcaption>Moodboard com referências utilizadas, e ao lado uma parte do design final embasado nelas"</figcaption>
+    <a href="/assets/images/Bleez/referências2.png"><img src="/assets/images/Bleez/referências2.png" alt="Imagem com alguns recortes de vitrines de ecommerce de diferentes estilos"></a>
+    <a href="/assets/images/Bleez/referências3.png"><img src="/assets/images/Bleez/referências3.png" alt="Imagem de um ecommerce com destaque para as categorias, vitrines com produtos e blocos informativos"></a>
+    <figcaption>Moodboard com referências utilizadas, e ao lado uma parte do design final embasado nelas</figcaption>
 </figure>
 
 Continuando a exploração de ideias, e agora com as referências necessárias já a mão, é preciso **começar a resolver problemas relacionados à hierarquia das informações.** Buscando resolver esses problemas o mais cedo quanto possível, a criação de wireframes já trazia a solução para problemas de:
@@ -139,9 +140,9 @@ Continuando a exploração de ideias, e agora com as referências necessárias j
 Além disso, a etapa de wireframe também facilita **validar a ideia com a equipe de desenvolvimento,** podendo sofrer alguns ajustes para se adequar mais facilmente ao contexto de desenvolvimento.
 
 <figure class="half">
-    <a href="/assets/images/Bleez/wire1.png"><img src="/assets/images/Bleez/wire1.png"></a>
-    <a href="/assets/images/Bleez/wire2.png"><img src="/assets/images/Bleez/wire2.png"></a>
-    <figcaption>Wireframe lado a lado do design finalizado</figcaption>
+    <a href="/assets/images/Bleez/wire1.png"><img src="/assets/images/Bleez/wire1.png" alt="Rascunho da homepage de um ecommerce, com foco na arquitetura e hierarquia da informação"></a>
+    <a href="/assets/images/Bleez/wire2.png"><img src="/assets/images/Bleez/wire2.png" alt="Homepage de um ecommerce de jóias com a arquitetura e hierarquia da informação bem próximas da imagem anterior"></a>
+    <figcaption>Wireframe lado a lado com o design finalizado</figcaption>
 </figure>
 
 
@@ -175,8 +176,8 @@ Além de uma nomenclatura clara e simples de camadas e arquivos, percebi que **u
 Com base nisso, por iniciativa minha passei a criar incluir dentro da documentação uma versão do design que deixava o tamanho dos espaçamentos bem mais fáceis de serem identificados, e que a própria equipe de front-end percebeu e relatou o quanto isso foi **importante para agilizar as entregas do time.**
 
 <figure class="half">
-    <a href="/assets/images/Bleez/handoff1.png"><img src="/assets/images/Bleez/handoff1.png"></a>
-    <a href="/assets/images/Bleez/handoff2.png"><img src="/assets/images/Bleez/handoff2.png"></a>
+    <a href="/assets/images/Bleez/handoff1.png"><img src="/assets/images/Bleez/handoff1.png" alt="Homepage de um ecommerce de utensílios para procedimentos de estética com as informações sobre os espaçamentos marcados e destacados"></a>
+    <a href="/assets/images/Bleez/handoff2.png"><img src="/assets/images/Bleez/handoff2.png" alt="Homepage do mesmo ecommerce da imagem anterior sem os espaçamentos destacados"></a>
     <figcaption>Versão com e sem os espaçamentos visíveis</figcaption>
 </figure>
 
