@@ -12,6 +12,7 @@ sidebar:
 header:
   image: /assets/images/Habit Quest/cover-habitquest.png
   teaser: /assets/images/Habit Quest/preview-habitquest.png
+  alt: "Imagem de um desenho de um gramado cartunizado com algumas moitas e árvores ao longe"
   caption: "Crédito da imagem: [**Freepik**](https://Freepik.com)"
 related: false
 categories:
@@ -20,16 +21,22 @@ categories:
 carrossel-finalizado:
   - url: /assets/images/Habit Quest/finalizado - tela de inicio.png
     image_path: /assets/images/Habit Quest/finalizado - tela de inicio.png
+    alt: "Tela de um aplicativo com um topo trazendo informações sobre nível e pontos obtidos pelo usuário. No centro da tela existe um calendário com 5 dias e um ativo, em que apresenta quais são os habitos que já foram realizados e os que ainda devem ser realizados. Possui um botão grande com um 'mais', e uma barra inferior com 5 ícones: 'início', 'perfil', 'social', 'passe' e 'configs'. O ícone referente a 'início' está marcado"
   - url: /assets/images/Habit Quest/finalizado - tela de leaderboard.png
     image_path: /assets/images/Habit Quest/finalizado - tela de leaderboard.png
+    alt: "Tela com uma listagem de vários usuários, ordenada pelos que fizeram mais pontos ao longo da etapa. Cada item da lista possui uma foto do usuário, o nível e a pontuação obtida, e um fundo personalizado. Na mesma barra inferior de antes, dessa vez o ícone 'social' está marcado"
   - url: /assets/images/Habit Quest/finalizado - tela de progressão.png
     image_path: /assets/images/Habit Quest/finalizado - tela de progressão.png
+    alt: "Tela com uma seção superior que traz as informações sobre o bônus que o usuário obtem ao manter seus hábitos durante uma semana dentro de uma imagem de um mapa. Na parte central existem informações sobre uma listagem de conteúdos que já foram habilitados e quantos ainda podem ser habilitados dentro de um tempo específico. Na barra inferior, o ícone 'passe' está marcado "
   - url: /assets/images/Habit Quest/finalizado - tela de estatísticas.png
     image_path: /assets/images/Habit Quest/finalizado - tela de estatísticas.png
+    alt: "Tela com uma foto do usuário centralizada, possui um arco de progressão ao redor da foto e um fundo personalizado na parte inferior. Apresenta o nome, o nível e quantidade de pontos obtidos pelo usuário. Possui duas abas: 'coleção' e 'estatísticas', e a aba 'estatísticas' está marcada. Possui uma seção com um gráfico sobre a quantidade de hábitos ao longo da semana e outra seção sobre sequências semanais, totais de hábitos, maior sequência e sequência atual. Na barra inferior o ícone 'perfil' está marcado."
   - url: /assets/images/Habit Quest/finalizado - tela de coleção.png
     image_path: /assets/images/Habit Quest/finalizado - tela de coleção.png
+    alt: "Mesma tela anterior, sendo que dessa vez a aba 'coleção' está marcada. Possui uma seção com as 4 conquistas selecionadas pelo usuário e uma seção com 4 fundos diferentes e coloridos que foram obtidos por esse usuário."
   - url: /assets/images/Habit Quest/finalizado - tela de conquistas.png
     image_path: /assets/images/Habit Quest/finalizado - tela de conquistas.png
+    alt: "Tela com uma listagem de conquistas obtidas, que permite ao usuários ordenar quais serão as quatro primeiras e que serão exibidas no perfil do usuário. Cada item da listagem possui uma medalha de ouro, prata ou bronze, a condição para ser atingida e qual a porcentagem de usuários que conseguiram essa mesma conquista. Possui um botão fixo na parte inferior da tela para confirmar a ação."
 
 ---
 Esse projeto foi desenvolvido durante a disciplina de Projeto Integrado II do curso de Sistemas e Mídias Digitais da Universidade Federal do Ceará.
@@ -60,7 +67,7 @@ Nosso perfil buscado foram pessoas que praticam ou praticavam exercícios físic
 Recrutamos participantes para a entrevista estruturada através de um grupo de alunos no Facebook do curso Sistemas e Mídias Digitais da Universidade Federal do Ceará, e realizei a entrevista com 6 pessoas através do Messenger e Whatsapp. Os participantes também foram consultados se teriam interesse em participar de testes de usabilidade posteriormente.
 
 <figure>
-	<a href="/assets/images/Habit Quest/entrevista.png"><img src="/assets/images/Habit Quest/entrevista.png"></a>
+	<a href="/assets/images/Habit Quest/entrevista.png"><img src="/assets/images/Habit Quest/entrevista.png" alt="Captura de tela trazendo um texto sobre as hipóteses, dúvidas e perguntas acerca do tema da entrevista"></a>
 	<figcaption><a href="https://docs.google.com/document/d/e/2PACX-1vTCXsbuzGsIBDZwuu5nsYMbqUBYWnxvW9focmPjdmnDTgGETXX-QWDBm3slpT_doKapVeld1kXPI8Tk/pub" title="Acesse os dados da entrevista completa">Acesse os dados da entrevista completa</a></figcaption>
 </figure>
 
@@ -80,8 +87,8 @@ Depois de identificar as principais necessidades, construí sketchs para explora
 Depois dessas explorações foi construído o wireframe para ser utilizado no testes de usabilidade com usuários para validar a interface o mais cedo quanto possível e minimizar riscos no desenvolvimento. Considerando quais seriam os fluxos mais importantes a serem testados, escolhi priorizar o wireframe da tela de "Início" e "Coleção" para o teste, já que essas são mais importantes para as principais funcionalidades a serem utilizadas no aplicativo.
 
 <figure class="half">
-    <a href="/assets/images/Habit Quest/baixaFidelidade - home2.png"><img src="/assets/images/Habit Quest/baixaFidelidade - home2.png"></a>
-    <a href="/assets/images/Habit Quest/médiaFidelidade - home.png"><img src="/assets/images/Habit Quest/médiaFidelidade - home.png"></a>
+    <a href="/assets/images/Habit Quest/baixaFidelidade - home2.png"><img src="/assets/images/Habit Quest/baixaFidelidade - home2.png" alt="Foto de uma página com varios rabiscos em formato de telas de aplicativo"></a>
+    <a href="/assets/images/Habit Quest/médiaFidelidade - home.png"><img src="/assets/images/Habit Quest/médiaFidelidade - home.png" alt="Tela em tons de cinza do aplicativo voltado para hábitos, trazendo informações como nível, quest semanal e hábitos de hoje. Possui 5 elementos em uma barra inferior: a aba início marcada, coleção, amigos, expedição, configurações "></a>
     <figcaption>Rascunho e wireframe da tela de "Início"</figcaption>
 </figure>
 
@@ -108,8 +115,8 @@ Por exemplo, **com base nos dados sobre o teste no fluxo de editar os dias de um
 ### Exemplos de dados utilizados para diagnosticar pontos de confusão no fluxo de edição de dias
 
 <figure class="half">
-    <a href="/assets/images/Habit Quest/MazeImg1.png"><img src="/assets/images/Habit Quest/MazeImg1.png"></a>
-    <a href="/assets/images/Habit Quest/MazeImg2.png"><img src="/assets/images/Habit Quest/MazeImg2.png"></a>
+    <a href="/assets/images/Habit Quest/MazeImg1.png"><img src="/assets/images/Habit Quest/MazeImg1.png" src="captura de tela da plataforma Maze, trazendo infomações de usabilidade sobre o fluxo 'Adicione um sábado como um dia de caminhada', tais como: escore de usabilidade, tempo médio e taxa de missclick  "></a>
+    <a href="/assets/images/Habit Quest/MazeImg2.png"><img src="/assets/images/Habit Quest/MazeImg2.png" src="captura de tela da mesma plataforma Maze, com informações sobre onde os usuários tocaram dentro da tela."></a>
     <figcaption>Dados obtidos pelo Maze indicando problemas de usabilidade em partes do fluxo</figcaption>
 </figure>
 

@@ -21,16 +21,22 @@ categories:
 lojas-finalizadas:
   - url: /assets/images/Bleez/Dvinos.png
     image_path: /assets/images/Bleez/Dvinos.png
+    alt: "Página inicial de um ecommerce voltado a venda de vinhos com predominância da cor vermelha nas imagens e na interface"
   - url: /assets/images/Bleez/Accessus.png
     image_path: /assets/images/Bleez/Accessus.png
+    alt: "Um ecommerce voltado para a venda de peças de carros com a cor branca na interface e preta nas imagens, destacando a elegância dos modelos de carros "
   - url: /assets/images/Bleez/Soyleh.png
     image_path: /assets/images/Bleez/Soyleh.png
+    alt: "Ecommerce de roupas masculinas, com grandes imagens verticais e banners com fundo de praia"
   - url: /assets/images/Bleez/Montreal.png
     image_path: /assets/images/Bleez/Montreal.png
+    alt: "Página inicial de uma loja com produtos de vários departamentos diferentes. As cores de destaque são azul e vermelho, e os banners da página possuem imagens de nuvens junto aos nomes dos departamentos"
   - url: /assets/images/Bleez/Aviarte.png
     image_path: /assets/images/Bleez/Aviarte.png
+    alt: "Página de uma loja virtual sobre produtos para serem utilizados decorações de festas, com várias fotos de festas de diversos tipos e pequenos detalhes com bordas adornadas espalhadas ao longo do site"
   - url: /assets/images/Bleez/ProgramaOffice.png
     image_path: /assets/images/Bleez/ProgramaOffice.png
+    alt: "Ecommerce de cadeiras de escritório, com uma estética bem limpa e elementos com bastante espaço vazio em branco ao redor e várias fotos de ambientes formais em uma loja"
 
 
 ---

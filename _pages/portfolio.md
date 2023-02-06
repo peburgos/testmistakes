@@ -14,4 +14,4 @@ Você pode visualizar um resumo sobre meus principais projetos e quais resultado
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTZ01Tqu5juXB_QPNnOaQ25MEQ2eAGxBbRY8GcEub0VM4MZwFJjJtomeTs3-2d-dhvmNKzanU0VQrFh/embed?start=false&loop=false&delayms=3000" title="Apresentação de slides sobre meu portfólio" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-E caso deseje conhecer meu processo com mais detalhes e de forma mais acessível, os artigos a seguir possuem mais informações sobre projetos específicos
+E caso deseje conhecer meu processo com mais detalhes e de forma mais completa, os artigos a seguir possuem mais informações sobre projetos específicos
