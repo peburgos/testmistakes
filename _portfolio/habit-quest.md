@@ -1,6 +1,6 @@
 ---
-title: "Estudo de Caso em Experiência do Usuário (UX): "
-excerpt: "Aplicativo para Gamificação da realização de Atividades Físicas"
+title: "Habit Quest"
+excerpt: "Aplicativo estimular a realização de Atividades Físicas"
 date: 2023-01-24T10:13:02-05:00
 toc: true
 toc_label: "Índice"
@@ -76,8 +76,8 @@ carrossel-finalizado:
 </figure>
 
 <figure class="half">
-    <a href="/assets/images/Habit Quest/MazeImg1.png"><img src="/assets/images/Habit Quest/MazeImg1.png" src="captura de tela da plataforma Maze, trazendo infomações de usabilidade sobre o fluxo 'Adicione um sábado como um dia de caminhada', tais como: escore de usabilidade, tempo médio e taxa de missclick  "></a>
-    <a href="/assets/images/Habit Quest/MazeImg2.png"><img src="/assets/images/Habit Quest/MazeImg2.png" src="captura de tela da mesma plataforma Maze, com informações sobre onde os usuários tocaram dentro da tela."></a>
+    <a href="/assets/images/Habit Quest/MazeImg1.png"><img src="/assets/images/Habit Quest/MazeImg1.png" alt="captura de tela da plataforma Maze, trazendo infomações de usabilidade sobre o fluxo 'Adicione um sábado como um dia de caminhada', tais como: escore de usabilidade, tempo médio e taxa de missclick  "></a>
+    <a href="/assets/images/Habit Quest/MazeImg2.png"><img src="/assets/images/Habit Quest/MazeImg2.png" alt="captura de tela da mesma plataforma Maze, com informações sobre onde os usuários tocaram dentro da tela."></a>
     <figcaption>Dados obtidos pelo Maze indicando problemas de usabilidade em partes do fluxo</figcaption>
 </figure>
 

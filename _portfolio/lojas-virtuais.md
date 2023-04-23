@@ -41,8 +41,7 @@ lojas-finalizadas:
 
 ---
 
-# Objetivo:
-Design 24 e-commerce websites for 12 different sectors over 20 months, with the main goal of creating accurate and client-aligned layouts within negotiated deadlines.
+Projetei 24 sites de comércio eletrônico para 12 setores diferentes ao longo de 20 meses, com o objetivo principal de criar layouts precisos e alinhados ao cliente dentro dos prazos negociados.
 
 # Resultados:
 - 82% dos layouts foram aprovados sem nenhuma solicitação de ajuste
@@ -54,10 +53,10 @@ Design 24 e-commerce websites for 12 different sectors over 20 months, with the 
 # Processo utilizado:
 
 ## 1. Descoberta/Definição (Análise do Problema):
-  - Objetivo: Coletei dados para minimizar riscos e criar layouts precisos alinhados com os interesses do cliente dentro de 1-2 semanas.
-  - Premissas: A solução final deveria ser um site de e-commerce, conforme acordado em contrato, e o desenvolvimento de funcionalidades para problemas específicos do cliente só seria considerado após a fase inicial.
-  - Escopo: A análise e definição do problema foram combinadas em uma única etapa para entender e enfrentar o desafio de criar um site de e-commerce que resolva o problema do cliente.
-  - Pesquisa preliminar: coletei informações sobre o segmento de negócios do cliente, presença da marca online e offline e comportamento do cliente por meio de perfis de mídia social, sites de comércio eletrônico anteriores e outras fontes relevantes.
+  - Coletei dados para minimizar riscos e criar layouts precisos alinhados com os interesses do cliente dentro de 1-2 semanas.
+  -A solução final deveria ser um site de e-commerce, conforme acordado em contrato, e o desenvolvimento de funcionalidades para problemas específicos do cliente só seria considerado após a fase inicial.
+  - A análise e definição do problema foram combinadas em uma única etapa para entender e enfrentar o desafio de criar um site de e-commerce que resolva o problema do cliente.
+  - Coletei informações sobre o segmento de negócios do cliente, presença da marca online e offline e comportamento do cliente por meio de perfis de mídia social, sites de comércio eletrônico anteriores e outras fontes relevantes.
 
 ## 2. Alinhamento e entrevista com cliente:
   - Reunião com o cliente e equipe de marketing para alinhar as informações do projeto e obter insights mais profundos sobre o negócio do cliente.
