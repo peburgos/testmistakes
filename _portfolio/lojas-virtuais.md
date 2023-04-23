@@ -68,7 +68,7 @@ Durante o meu tempo na Bleez E-commerce projetei 24 sites de comércio eletrôni
   	<figcaption>Dados sobre termos pesquisados no e-commerce anterior do cliente</figcaption>
   </figure>
 
-## 3. Relatório de Persona e Marketing:
+## 3. Relatório de Persona elaborado pelo Marketing:
   - Equipe de marketing elaborava relatório com informações coletadas em entrevistas com usuários por telefone, comentários em redes sociais e informações comerciais para estabelecer metas para o novo site.
   - O relatório incluía uma persona criada com base nas informações coletadas.
 
@@ -84,15 +84,15 @@ Durante o meu tempo na Bleez E-commerce projetei 24 sites de comércio eletrôni
   - Processo de design iterativo para refinar o conceito e criar um protótipo de alta fidelidade para aprovação final.
 
   <figure class="half">
-      <a href="/assets/images/Bleez/referências2.png"><img src="/assets/images/Bleez/referências2.png" alt="Imagem com alguns recortes de vitrines de ecommerce de diferentes estilos"></a>
-      <a href="/assets/images/Bleez/referências3.png"><img src="/assets/images/Bleez/referências3.png" alt="Imagem de um ecommerce com destaque para as categorias, vitrines com produtos e blocos informativos"></a>
-      <figcaption>Moodboard com referências utilizadas, e ao lado uma parte do design final embasado nelas</figcaption>
-  </figure>
-
-  <figure class="half">
       <a href="/assets/images/Bleez/wire1.png"><img src="/assets/images/Bleez/wire1.png" alt="Rascunho da homepage de um ecommerce, com foco na arquitetura e hierarquia da informação"></a>
       <a href="/assets/images/Bleez/wire2.png"><img src="/assets/images/Bleez/wire2.png" alt="Homepage de um ecommerce de jóias com a arquitetura e hierarquia da informação bem próximas da imagem anterior"></a>
       <figcaption>Wireframe lado a lado com o design finalizado</figcaption>
+  </figure>
+
+  <figure class="half">
+      <a href="/assets/images/Bleez/referências2.png"><img src="/assets/images/Bleez/referências2.png" alt="Imagem com alguns recortes de vitrines de ecommerce de diferentes estilos"></a>
+      <a href="/assets/images/Bleez/referências3.png"><img src="/assets/images/Bleez/referências3.png" alt="Imagem de um ecommerce com destaque para as categorias, vitrines com produtos e blocos informativos"></a>
+      <figcaption>Moodboard com referências utilizadas, e ao lado uma parte do design final embasado nelas</figcaption>
   </figure>
 
 ## 5. Handoff:
@@ -106,7 +106,7 @@ Durante o meu tempo na Bleez E-commerce projetei 24 sites de comércio eletrôni
   </figure>
 
 # Conclusão:
-  - Sucesso do processo de design validado usado para 24 sites de comércio eletrônico em diferentes setores.
+  - Sucesso do processo de design alcançado, utilizado em 24 sites de comércio eletrônico de diferentes setores.
   - 82% dos layouts aprovados sem alterações, todos os projetos entregues dentro do prazo e apenas 13% dos sites solicitaram correções pós-implementação.
   - Alcancei layouts alinhados ao cliente e as metas do projeto usando um processo de design Double Diamond com adaptações para as características do projeto, como nível de desenvolvimento e prazos.
 
