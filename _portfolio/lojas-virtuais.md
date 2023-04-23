@@ -41,7 +41,7 @@ lojas-finalizadas:
 
 ---
 
-Projetei 24 sites de comércio eletrônico para 12 setores diferentes ao longo de 20 meses, com o objetivo principal de criar layouts precisos e alinhados ao cliente dentro dos prazos negociados.
+Durante o meu tempo na Bleez E-commerce projetei 24 sites de comércio eletrônico para 12 setores diferentes ao longo de 20 meses, com o objetivo principal de criar layouts precisos e alinhados ao cliente dentro dos prazos negociados.
 
 # Resultados:
 - 82% dos layouts foram aprovados sem nenhuma solicitação de ajuste
