@@ -1,6 +1,6 @@
 ---
-title: "Habit Quest"
-excerpt: "Aplicativo para incentivar a prática de atividades físicas através do uso da gamificação"
+title: "Estudo de Caso em Experiência do Usuário (UX): "
+excerpt: "Aplicativo para Gamificação da realização de Atividades Físicas"
 date: 2023-01-24T10:13:02-05:00
 toc: true
 toc_label: "Índice"
@@ -39,80 +39,41 @@ carrossel-finalizado:
     alt: "Tela com uma listagem de conquistas obtidas, que permite ao usuários ordenar quais serão as quatro primeiras e que serão exibidas no perfil do usuário. Cada item da listagem possui uma medalha de ouro, prata ou bronze, a condição para ser atingida e qual a porcentagem de usuários que conseguiram essa mesma conquista. Possui um botão fixo na parte inferior da tela para confirmar a ação."
 
 ---
-Esse projeto foi desenvolvido durante a disciplina de Projeto Integrado II do curso de Sistemas e Mídias Digitais da Universidade Federal do Ceará.
-
-O principal conceito do aplicativo é o **uso de gamificação como forma de trazer uma progressão visual dos benefícios em se construir e manter o hábito de praticar atividades físicas.**
-
-Colaborei com os demais membros principalmente durante o processo de ideação e definição, posterior a isso nos comunicamos para compartilhar os progressos obtidos nas pesquisas e no protótipo enquanto eles se dedicavam no desenvolvimento da implementação do aplicativo.
-
-**As imagens a seguir são as telas do aplicativo com o design finalizado, e em seguida a descrição sobre processo utilizado na construção delas**
+# Visão Geral
+- Desenvolvido como parte de um projeto de curso universitário, o aplicativo tinha como objetivo promover a atividade física por meio da gamificação.
+- Colaborei com os membros da equipe durante a geração e definição de ideias, enquanto outros se concentravam no desenvolvimento do aplicativo.
+- Entrevistei potenciais usuários para entender suas necessidades, identificando a falta de progressão visual e feedback imediato como questões-chave.
+- Criei wireframes e conduzi testes de usabilidade com 5 participantes para validar a interface.
+- Fiz ajustes com base nos resultados dos testes de usabilidade e refinei as telas para alinhar com os modelos mentais dos usuários.
+- Desenvolvi um protótipo de alta fidelidade usando o Figma.
 
 {% include gallery id="carrossel-finalizado" caption="Telas finalizadas do aplicativo Habit Quest" %}
 
+## Principais Descobertas
+- Os usuários desejavam uma progressão visual clara e feedback imediato para se manterem motivados.
+- O aplicativo deveria focar na manutenção de hábitos em vez de atividades específicas.
 
-{% comment %}
-# Objetivos
-{% endcomment %}
+## Destaques do Processo
 
-# 1 - Entendendo a necessidade do público
----
-Depois de que a equipe coletivamente definiu o público a ser trabalhado, busquei esse conversar com esse público para entender qual necessidade poderia ser trabalhada dentro do nosso escopo.
-
-
-
-## Etapa de entrevista
-
-Nosso perfil buscado foram pessoas que praticam ou praticavam exercícios físicos e se interessam por jogos digitais, buscando entender porque esse público parou de praticar atividades físicas e quais os estímulos que faziam eles continuarem jogando jogos digitais.
-
-Recrutamos participantes para a entrevista estruturada através de um grupo de alunos no Facebook do curso Sistemas e Mídias Digitais da Universidade Federal do Ceará, e realizei a entrevista com 6 pessoas através do Messenger e Whatsapp. Os participantes também foram consultados se teriam interesse em participar de testes de usabilidade posteriormente.
+### Compreensão das Necessidades dos Usuários
+- Realizei entrevistas remotas com 6 potenciais usuários interessados em atividade física e jogos.
+- Identifiquei a falta de progressão visual e feedback como questões-chave.
 
 <figure>
 	<a href="/assets/images/Habit Quest/entrevista.png"><img src="/assets/images/Habit Quest/entrevista.png" alt="Captura de tela trazendo um texto sobre as hipóteses, dúvidas e perguntas acerca do tema da entrevista"></a>
 	<figcaption><a href="https://docs.google.com/document/d/e/2PACX-1vTCXsbuzGsIBDZwuu5nsYMbqUBYWnxvW9focmPjdmnDTgGETXX-QWDBm3slpT_doKapVeld1kXPI8Tk/pub" title="Acesse os dados da entrevista completa">Acesse os dados da entrevista completa</a></figcaption>
 </figure>
 
-## Insights obtidos
-
-Descobrimos que um dos principais motivos de desistência e desmotivação para esse público é a **falta recursos visuais que lhe apresentassem de forma clara a progressão** em seu exercício, faltando também **feedbacks mais imediatos sobre a sua performance** .
-
-Também concluímos que o produto a ser criado deveria ser um aplicativo voltado para manutenção de hábitos, pois **o importante** para o nosso público **é a continuar praticando a atividade ao longo do tempo** e não sobre manter uma prática específica.
-
-
-# 2 - Wireframes e teste de usabilidade
-
----
-
-Depois de identificar as principais necessidades, construí sketchs para explorar possibilidades e ideias para algumas telas.
-
-Depois dessas explorações foi construído o wireframe para ser utilizado no testes de usabilidade com usuários para validar a interface o mais cedo quanto possível e minimizar riscos no desenvolvimento. Considerando quais seriam os fluxos mais importantes a serem testados, escolhi priorizar o wireframe da tela de "Início" e "Coleção" para o teste, já que essas são mais importantes para as principais funcionalidades a serem utilizadas no aplicativo.
+### Wireframes e Testes de Usabilidade
+- Criei wireframes para as telas "Home" e "Coleção", que eram funcionalidades-chave do aplicativo.
+- Conduzi testes de usabilidade com 5 participantes usando o Figma e a plataforma Maze.
+- Observei insights essenciais para priorizar informações e simplificar interações.
 
 <figure class="half">
     <a href="/assets/images/Habit Quest/baixaFidelidade - home2.png"><img src="/assets/images/Habit Quest/baixaFidelidade - home2.png" alt="Foto de uma página com varios rabiscos em formato de telas de aplicativo"></a>
     <a href="/assets/images/Habit Quest/médiaFidelidade - home.png"><img src="/assets/images/Habit Quest/médiaFidelidade - home.png" alt="Tela em tons de cinza do aplicativo voltado para hábitos, trazendo informações como nível, quest semanal e hábitos de hoje. Possui 5 elementos em uma barra inferior: a aba início marcada, coleção, amigos, expedição, configurações "></a>
     <figcaption>Rascunho e wireframe da tela de "Início"</figcaption>
 </figure>
-
-
-## Avaliação de usabilidade
-
-Partindo dessas explorações montei um wireframe no Figma para testar com os usuários as principais funcionalidades do aplicativo:
-
-- ver quais são os seus hábitos em outro dia
-- editar quais são os dias de um determinado hábito
-- adicionar um novo hábito
-- alterar a visibilidade de uma conquista no seu perfil
-
-O teste de usabilidade contou com 5 participantes, dentre os 6 que foram previamente contatados na etapa de entrevista. O teste foi realizado de forma remota e não moderada usando a plataforma Maze.
-
-## Resultados do teste de usabilidade
-
-Testar o mais cedo quanto possível nos permitiu minimizar os impactos que teriam ocorridos devido aos ajustes necessários caso os testes tivessem sidos realizados com o recurso já implementado.
-
-Os dados obtidos pelo teste foram **essenciais** para identificar quais as **informações** que deveriam ou não serem **priorizadas** para serem exibidas durante os fluxos das funcionalidades do app e quais eram as interações que deveriam ser simplificadas para serem mais intuitivas ao usuário.
-
-Por exemplo, **com base nos dados sobre o teste no fluxo de editar os dias de um hábito repensei a forma de interação** tanto para chegar na edição quanto como ativar elas, **buscando simplificar e tornar esse uso mais intuitivo"**
-
-### Exemplos de dados utilizados para diagnosticar pontos de confusão no fluxo de edição de dias
 
 <figure class="half">
     <a href="/assets/images/Habit Quest/MazeImg1.png"><img src="/assets/images/Habit Quest/MazeImg1.png" src="captura de tela da plataforma Maze, trazendo infomações de usabilidade sobre o fluxo 'Adicione um sábado como um dia de caminhada', tais como: escore de usabilidade, tempo médio e taxa de missclick  "></a>
@@ -125,33 +86,13 @@ Por exemplo, **com base nos dados sobre o teste no fluxo de editar os dias de um
 	<figcaption><a href="https://app.maze.co/report/9afd1akehg6qvd/#intro" title="Confira o relatório completo do teste de usabilidade no Maze">Confira o relatório completo do teste de usabilidade no Maze</a></figcaption>
 </figure>
 
-# 3 - Ajustes e refinamento de telas
 
----
-
-Depois de analisar cuidadosamente os dados obtidos no teste, as telas foram ajustadas para ficarem mais alinhadas com o modelo mental dos usuários, além de também aplicar a identidade visual que vinha sendo desenvolvida enquanto isso.
-
-Confira abaixo o protótipo de alta fidelidade feito no Figma.
+### Ajustes e Refinamento
+- Fiz ajustes nas telas com base nos resultados dos testes de usabilidade e refinei as telas para alinhar com os modelos mentais dos usuários.
+- Apliquei a identidade visual desenvolvida durante o projeto.
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F8qhv2lhPyvyf8EFGG4y8W7%2FHabit-Quest%3Fnode-id%3D610%253A898" allowfullscreen></iframe>
 
-
-# 4 - Aprendizados durante o projeto
-
----
-
-Uma das maiores dificuldades do projeto foi a realização das pesquisas de forma remotas devido ao impacto do distanciamento social decorrente da pandemia.  
-
-A realização das entrevista via mensagem de texto foi algo pensado para se encaixar melhor nas possíveis limitações de falta de internet ou tempo para responder ela, entretanto muitos detalhes sobre o contexto acabaram não sendo captados.
-
-Como forma de resolver isso, nas próximas vezes talvez seja melhor tentar primeiro entrevistar por vídeo ou áudio e posteriormente transcrever o que foi dito, e apenas caso necessário ou caso o participante se sinta melhor optar pelo texto.
-
-Ter uma mulher como participante durante a etapa de entrevista também foi algo extremamente  rico pro desenvolvimento de um projeto voltado a pessoas interessadas em jogos digitais.
-
-Muitos problemas nem sequer teriam sido levantados e documentados sem essa participação, tais como a toxicidade em jogos multiplayer. Outro exemplo disso é o avatar utilizado como identificação entre usuários no aplicativo, que também teria que ser mais representativo.
-
-Assim, ficou bem claro pra mim o quão importante é incluir e buscar ativamente uma diversidade maior de participantes o mais cedo no desenvolvimento quanto possível.
-
-Outro ponto que pode ser melhorado é a condução do teste de usabilidade. Por não conhecer tanto sobre na época, acabei optando pelo não moderado ao invés do moderado (através do meet, zoom, ou outra ferramenta do tipo).
-
-Dessa forma teria obtido resultados mais ricos por ajudar o participante a organizar seus próprios pensamentos (sem guia-lo, obviamente), além de melhorar a experiência do participante de não se sentir tão abandonado durante o processo.
+### Aprendizados do Projeto
+- Desafios incluíram a pesquisa remota devido ao impacto da pandemia em andamento.
+- Em geral, o projeto destacou a importância de priorizar as necessidades dos usuários, conduzir testes de usabilidade cedo e refinar com base no feedback.

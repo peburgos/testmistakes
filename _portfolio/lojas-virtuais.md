@@ -1,6 +1,6 @@
 ---
-title: "Design de lojas virtuais"
-excerpt: "Processo utilizado enquanto parte da Bleez E-Commerce"
+title: "Projetando 24 lojas virtuais em 20 meses"
+excerpt: "Meu processo enquanto parte da Bleez E-Commerce"
 date: 2023-01-23T23:20:02-05:00
 toc: true
 toc_label: "Índice"
@@ -41,150 +41,74 @@ lojas-finalizadas:
 
 ---
 
-Esse processo de design foi utilizado para projetar lojas virtuais de 24 empresas, que atuavam 12 setores diferentes, ao longo de 20 meses. Ele possuía como principal objetivo **construir um layout assertivo e alinhado com as necessidades do cliente dentro do prazo negociado.**
+# Objetivo:
+Design 24 e-commerce websites for 12 different sectors over 20 months, with the main goal of creating accurate and client-aligned layouts within negotiated deadlines.
 
-E posso dizer que durante esse tempo ele **atingiu muito bem os objetivos buscados**:
-- **82%** dos layouts foram aprovados sem nenhuma solicitação de alteração
-- **todos** os designs foram entregues dentro do prazo
-- apenas **13%** das lojas solicitaram correções após a implementação do layout
-
-
-> Caso queira visualizar algumas lojas virtuais feitas com base nesse processo, selecione "Prototype" através do índice disponibilizado
-
-# Sobre o processo
-
----
-
-Para buscar os resultados desejados, utilizamos como base o processo de design **Double Diamond com adaptações para se adequar às características comuns aos projetos**, como o nível de desenvolvimento e o prazo estipulado para o cliente.
-
-No geral, o processo possuía 4 etapas principais: Discover e define, Ideate, Prototype e Handoff.
-
-# 1 - Discover/Define  (Problema geral)
-
----
-
-O objetivo dessa etapa era **levantar a maior quantidades de dados e informações para minimizar os riscos e construir o layout mais assertivo, que obtivesse resultados, e que estivesse alinhado com os interesses do cliente dentro do prazo** de 1-2 semanas.
-
-Para isso, era necessário construir algumas premissas para começar a entender melhor o problema a ser resolvido:
-- a solução final obrigatoriamente seria uma loja virtual, pois era o que havia sido acordado no contrato;
-- caso o cliente não tivesse contratado, ao menos no primeiro momento não haveria desenvolvimento de funcionalidades para os problemas específicos que ele enfrentava.
-
-Com base nisso, **o escopo do problema geral a ser descoberto se reduzia bastante em comparação a um discovery mais completo**.
-
-Considerávamos que as tradicionais etapas de descobrir sobre o problema e de definir o problema se tornavam uma única etapa (pois o problema passava de "qual solução tecnológica ou analógica resolveria o problema" para **"como fazer uma loja virtual que solucione esse problema"**).
-
-Buscando começar a entender as complicações do problema e levantar possíveis dúvidas e dados a serem pedidos durante a entrevista com o cliente, começava o levantamento preliminar.
-
-
-## 1.1 - Levantamento preliminar
-
-A etapa possuía como objetivo tentar ao máximo **conseguir informações que ajudassem a levantar, de forma preliminar, quais seriam as dificuldades e complexidades a serem resolvidas durante o problema** mais sobre as seguintes questões:
-
-### Sobre o segmento da loja
-
-- Qual o segmento da loja do cliente?
-- Ela vende por atacado ou varejo?
-- Quais categorias de produtos ela vende?
-
-
-### Sobre a presença online e offline dessa marca
-
-- Como é a presença online dessa marca? De que forma ela busca se comunicar com os usuários?
-- Quais as características da identidade visual dessa marca? Como ela trabalha e reforça os principais elementos?
-- Se ela possuir uma loja física, como ela se parece? Qual a experiência buscada dentro dela?
-
-Essas informações eram coletadas através dos perfis de rede sociais, de lojas virtuais anteriores do cliente e qualquer outro site que tivesse informações diretamente relacionadas à loja do cliente.
-
-
-## 1.1 - Alinhamento e entrevista com cliente
-
-Na data combinada com a equipe do cliente, e normalmente acompanhado por uma colega do marketing, participava de uma reunião para alinhar informações sobre o projeto com o cliente e conseguir **entender de forma mais aprofundada sobre informações coletadas até o momento sobre a empresa contratante.**
-
-**Durante essa reunião solicitávamos alguns dados sobre o comportamento do usuários atuais**, tais como quais eram os produtos mais vendidos e mais procurados (caso já tivesse um e-commerce), dados demográficos sobre os usuários e canais de venda atuais.
-
-Por exemplo, **se embasando em dados** de uma listagem com os termos mais buscados de um e-commerce atual **fica exatamente claro na hora de se tomar a decisão** sobre quais seriam os produtos e categorias que a serem priorizados na página inicial da loja virtual.
-
-<figure>
-	<a href="/assets/images/Bleez/dados-filtro.png"><img src="/assets/images/Bleez/dados-filtro.png" alt="Imagem com uma tabela contendo quais foram as palavras mais pesquisadas nesse ecommerce"></a>
-	<figcaption>Dados sobre termos pesquisados no e-commerce anterior do cliente</figcaption>
-</figure>
-
-## 1.2 - Persona e relatório do marketing
-Após o alinhamento e recebimento das informações do cliente, o marketing organizava um relatório com informações coletadas através de entrevistas com usuários via telefone, comentários em rede sociais e informações comerciais sobre as metas estabelecidas para a nova loja virtual. Dentre as informações contidas nesse relatório havia a **persona montada para esse projeto, montada com base nas informações coletadas.**
-
-<figure class="half">
-    <a href="/assets/images/Bleez/persona1.png"><img src="/assets/images/Bleez/persona1.png" alt="Imagem com a persona de uma mulher fictícia chamada Lara Pessoa, com informações demográficas sobre ela"></a>
-    <a href="/assets/images/Bleez/persona2.png"><img src="/assets/images/Bleez/persona2.png" alt="Imagem com informações sobre comportamentos de Lara Pessoa durante um processo de compra tais como motivadores e desistências de compra"></a>
-    <figcaption>Persona desenvolvida pela equipe de marketing com base no comportamento de compra realizado pelos usuários</figcaption>
-</figure>
-
-Tendo a persona definida, e todos os principais desafios do projeto já mapeados, o conceito da loja virtual estava definido e seria o momento de começar a definir os detalhes.
-
-Ou seja, já que o problema geral de "como fazer uma loja virtual que solucione esse problema" estava solucionado, estava na hora de **começar a se perguntar "como construir cada uma as partes necessárias para materializar o conceito definido"**
-
-
-# 2 - Ideate (Problema específico)
-
----
-Nessa etapa, o objetivo é **explorar formas de solucionar o problema específico e validar essas ideias de forma ágil**, pois quanto mais cedo grandes mudanças necessárias ao design são realizadas, menos trabalho precisa ser refeito.
-
-Para realizar isso é sempre bom pesquisar e utilizar referências para ter ideias novas e diferentes de soluções, e deixar a forma mais clara a forma que o conceito definido vai ser materializado.
-
-Após a coleta de referências relacionadas aos problemas específicos que havia mapeado, é necessário **organizar elas em moodboards para facilitar sua utilização durante a prototipação** da interface.
-
-<figure class="half">
-    <a href="/assets/images/Bleez/referências2.png"><img src="/assets/images/Bleez/referências2.png" alt="Imagem com alguns recortes de vitrines de ecommerce de diferentes estilos"></a>
-    <a href="/assets/images/Bleez/referências3.png"><img src="/assets/images/Bleez/referências3.png" alt="Imagem de um ecommerce com destaque para as categorias, vitrines com produtos e blocos informativos"></a>
-    <figcaption>Moodboard com referências utilizadas, e ao lado uma parte do design final embasado nelas</figcaption>
-</figure>
-
-Continuando a exploração de ideias, e agora com as referências necessárias já a mão, é preciso **começar a resolver problemas relacionados à hierarquia das informações.** Buscando resolver esses problemas o mais cedo quanto possível, a criação de wireframes já trazia a solução para problemas de:
-- quais seriam o tamanho dos elementos e onde estariam posicionados
-- quais elementos seriam priorizados e ficariam visíveis sem o usuário rolar a página
-- espaçamentos e margens da grid utilizada
-
-Além disso, a etapa de wireframe também facilita **validar a ideia com a equipe de desenvolvimento,** podendo sofrer alguns ajustes para se adequar mais facilmente ao contexto de desenvolvimento.
-
-<figure class="half">
-    <a href="/assets/images/Bleez/wire1.png"><img src="/assets/images/Bleez/wire1.png" alt="Rascunho da homepage de um ecommerce, com foco na arquitetura e hierarquia da informação"></a>
-    <a href="/assets/images/Bleez/wire2.png"><img src="/assets/images/Bleez/wire2.png" alt="Homepage de um ecommerce de jóias com a arquitetura e hierarquia da informação bem próximas da imagem anterior"></a>
-    <figcaption>Wireframe lado a lado com o design finalizado</figcaption>
-</figure>
-
-
-# 3 - Prototype
-
----
-
-Como todos os problemas (sejam gerais ou específicos) já resolvidos devido aos processos das outras etapas, a etapa de prototipação é simplesmente uma continuação natural da lógica utilizada até o momento.
-
-É uma etapa que objetiva **executar e por na prática todas as soluções concebidas até agora,** e em que o protótipo (que é o principal objetivo do processo) é finalizado e apresentado ao cliente.
-
-Os seguintes elementos são **adicionados em cima do que foi construído até agora no wireframe**:
-- cores e tipografia definitiva
-- elementos gráficos da identidade visual
-- imagens e iconografia
-
-A seguir estão alguns exemplos da página inicial de lojas virtuais que foram criadas seguindo os passos do processo explicado até agora.
+# Resultados:
+- 82% dos layouts foram aprovados sem nenhuma solicitação de ajuste
+- Todos os designs foram entregues antes do prazo
+- Apenas 13% das lojas necessitaram de correções depois da implementação do layout
 
 {% include gallery id="lojas-finalizadas" %}
 
-# 4 - Documentação e Handoff
+# Processo utilizado:
 
----
+## 1. Descoberta/Definição (Análise do Problema):
+  - Objetivo: Coletei dados para minimizar riscos e criar layouts precisos alinhados com os interesses do cliente dentro de 1-2 semanas.
+  - Premissas: A solução final deveria ser um site de e-commerce, conforme acordado em contrato, e o desenvolvimento de funcionalidades para problemas específicos do cliente só seria considerado após a fase inicial.
+  - Escopo: A análise e definição do problema foram combinadas em uma única etapa para entender e enfrentar o desafio de criar um site de e-commerce que resolva o problema do cliente.
+  - Pesquisa preliminar: coletei informações sobre o segmento de negócios do cliente, presença da marca online e offline e comportamento do cliente por meio de perfis de mídia social, sites de comércio eletrônico anteriores e outras fontes relevantes.
 
-Pra mim, sempre foi de extrema importância proporcionar **uma boa experiência não apenas para os clientes, e sim para todas as pessoas envolvidas,** independente de quem ou de qual cargo seja.
+## 2. Alinhamento e entrevista com cliente:
+  - Reunião com o cliente e equipe de marketing para alinhar as informações do projeto e obter insights mais profundos sobre o negócio do cliente.
+  - Solicitei dados sobre o comportamento atual do usuário, como produtos mais vendidos e mais pesquisados, dados demográficos do usuário e canais de vendas atuais.
+  - Usei dados, como termos de pesquisa populares de um site de comércio eletrônico existente, para tomar decisões informadas sobre a priorização de produtos e categorias no novo site.
 
-Dessa forma, busquei continuamente formas para facilitar ao máximo aos front-ends que recebiam as especificações de design para realizarem o trabalho da implementação da forma mais fácil e rápida que estava ao meu alcance.
+  <figure>
+  	<a href="/assets/images/Bleez/dados-filtro.png"><img src="/assets/images/Bleez/dados-filtro.png" alt="Imagem com uma tabela contendo quais foram as palavras mais pesquisadas nesse ecommerce"></a>
+  	<figcaption>Dados sobre termos pesquisados no e-commerce anterior do cliente</figcaption>
+  </figure>
 
-Além de uma nomenclatura clara e simples de camadas e arquivos, percebi que **uma das coisas que mais faziam as pessoas da equipe front-end gastarem tempo era com os espaçamentos**, já que haviam uma quantidade muito grande e que precisavam ser cuidadosamente analisada um a um.
+## 3. Relatório de Persona e Marketing:
+  - Equipe de marketing elaborava relatório com informações coletadas em entrevistas com usuários por telefone, comentários em redes sociais e informações comerciais para estabelecer metas para o novo site.
+  - O relatório incluía uma persona criada com base nas informações coletadas.
 
-Com base nisso, por iniciativa minha passei a criar incluir dentro da documentação uma versão do design que deixava o tamanho dos espaçamentos bem mais fáceis de serem identificados, e que a própria equipe de front-end percebeu e relatou o quanto isso foi **importante para agilizar as entregas do time.**
+  <figure class="half">
+      <a href="/assets/images/Bleez/persona1.png"><img src="/assets/images/Bleez/persona1.png" alt="Imagem com a persona de uma mulher fictícia chamada Lara Pessoa, com informações demográficas sobre ela"></a>
+      <a href="/assets/images/Bleez/persona2.png"><img src="/assets/images/Bleez/persona2.png" alt="Imagem com informações sobre comportamentos de Lara Pessoa durante um processo de compra tais como motivadores e desistências de compra"></a>
+      <figcaption>Persona desenvolvida pela equipe de marketing com base no comportamento de compra realizado pelos usuários</figcaption>
+  </figure>
 
-<figure class="half">
-    <a href="/assets/images/Bleez/handoff1.png"><img src="/assets/images/Bleez/handoff1.png" alt="Homepage de um ecommerce de utensílios para procedimentos de estética com as informações sobre os espaçamentos marcados e destacados"></a>
-    <a href="/assets/images/Bleez/handoff2.png"><img src="/assets/images/Bleez/handoff2.png" alt="Homepage do mesmo ecommerce da imagem anterior sem os espaçamentos destacados"></a>
-    <figcaption>Versão com e sem os espaçamentos visíveis</figcaption>
-</figure>
+## 4. Conceito e Protótipo:
+  - Com a persona definida e os desafios do projeto mapeados, desenvolve-se o conceito do site de e-commerce.
+  - Wireframes e protótipos de baixa fidelidade são criados para testar a usabilidade e coletar feedback do cliente e dos usuários finais.
+  - Processo de design iterativo para refinar o conceito e criar um protótipo de alta fidelidade para aprovação final.
+
+  <figure class="half">
+      <a href="/assets/images/Bleez/referências2.png"><img src="/assets/images/Bleez/referências2.png" alt="Imagem com alguns recortes de vitrines de ecommerce de diferentes estilos"></a>
+      <a href="/assets/images/Bleez/referências3.png"><img src="/assets/images/Bleez/referências3.png" alt="Imagem de um ecommerce com destaque para as categorias, vitrines com produtos e blocos informativos"></a>
+      <figcaption>Moodboard com referências utilizadas, e ao lado uma parte do design final embasado nelas</figcaption>
+  </figure>
+
+  <figure class="half">
+      <a href="/assets/images/Bleez/wire1.png"><img src="/assets/images/Bleez/wire1.png" alt="Rascunho da homepage de um ecommerce, com foco na arquitetura e hierarquia da informação"></a>
+      <a href="/assets/images/Bleez/wire2.png"><img src="/assets/images/Bleez/wire2.png" alt="Homepage de um ecommerce de jóias com a arquitetura e hierarquia da informação bem próximas da imagem anterior"></a>
+      <figcaption>Wireframe lado a lado com o design finalizado</figcaption>
+  </figure>
+
+## 5. Handoff:
+  - Ativos de design finalizados, guia de estilo e documentação são entregues à equipe de desenvolvimento para implementação do site.
+  - Colaboração com os desenvolvedores durante todo o processo de implementação para garantir a integridade e a qualidade do design.
+
+  <figure class="half">
+      <a href="/assets/images/Bleez/handoff1.png"><img src="/assets/images/Bleez/handoff1.png" alt="Homepage de um ecommerce de utensílios para procedimentos de estética com as informações sobre os espaçamentos marcados e destacados"></a>
+      <a href="/assets/images/Bleez/handoff2.png"><img src="/assets/images/Bleez/handoff2.png" alt="Homepage do mesmo ecommerce da imagem anterior sem os espaçamentos destacados"></a>
+      <figcaption>Versão com e sem os espaçamentos visíveis</figcaption>
+  </figure>
+
+# Conclusão:
+  - Sucesso do processo de design validado usado para 24 sites de comércio eletrônico em diferentes setores.
+  - 82% dos layouts aprovados sem alterações, todos os projetos entregues dentro do prazo e apenas 13% dos sites solicitaram correções pós-implementação.
+  - Alcancei layouts alinhados ao cliente e as metas do projeto usando um processo de design Double Diamond com adaptações para as características do projeto, como nível de desenvolvimento e prazos.
 
 ---
