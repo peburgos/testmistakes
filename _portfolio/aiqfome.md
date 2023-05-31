@@ -1,9 +1,7 @@
 ---
-title: "Processo de aprovação de exclusão de contas"
+title: "Processo de exclusão de contas"
 excerpt: "Usando UX Design para atingir redução de custos em processos operacionais"
 date: 2023-05-31T10:13:02-05:00
-toc: true
-toc_label: "Índice"
 sidebar:
   - title: "Período"
     text: "Primeiro semestre de 2022"
@@ -26,7 +24,7 @@ Com base em uma [determinação da Apple](https://developer.apple.com/pt/support
 
 Atuando como UX Designer no Aiqfome, fiquei responsável por criar a parte que iria **receber e aprovar as solicitações de exclusão de conta dentro do produto interno** utilizado pelos funcionários de vários setores da empresa.
 
-*Por questões de sigilo não posso revelar detalhadamente (ou utilizar imagens de telas) sobre essa funcionalidade, dado que ela possui papel importante na prevenção de fraudes contra a empresa.*
+**Por questões de sigilo não posso revelar detalhadamente (ou utilizar imagens de telas) sobre essa funcionalidade, dado que ela possui papel importante na prevenção de fraudes contra a empresa.**
 {: .notice--primary}
 
 # Sobre o problema
