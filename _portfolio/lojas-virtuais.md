@@ -1,7 +1,7 @@
 ---
 title: "Projetando 24 lojas virtuais em 20 meses"
 excerpt: "Meu processo enquanto parte da Bleez E-Commerce"
-date: 2023-01-23T23:20:02-05:00
+date: 2023-05-30T23:20:02-05:00
 toc: true
 toc_label: "Índice"
 sidebar:

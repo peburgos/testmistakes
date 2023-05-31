@@ -1,7 +1,7 @@
 ---
 title: "Habit Quest"
 excerpt: "Aplicativo voltado a estimular a realização de Atividades Físicas"
-date: 2023-01-24T10:13:02-05:00
+date: 2023-05-29T10:13:02-05:00
 toc: true
 toc_label: "Índice"
 sidebar:
