@@ -15,17 +15,15 @@ related: false
 categories:
   - portfolio
 ---
-
-# Desafio enfrentado
-> Como podemos criar um novo processo que **reduza o tempo gasto pelos funcionários do suporte** durante a aprovação da exclusão de contas de usuários do aplicativo Aiqfome?
-
-# Contexto
 Com base em uma [determinação da Apple](https://developer.apple.com/pt/support/offering-account-deletion-in-your-app/), era **necessário permitir que os usuários do aplicativo Aiqfome excluíssem sua conta de forma automatizada pelo próprio aplicativo**, sem depender do chat para abrir essa solicitação.
 
 Atuando como UX Designer no Aiqfome, fiquei responsável por criar a parte que iria **receber e aprovar as solicitações de exclusão de conta dentro do produto interno** utilizado pelos funcionários de vários setores da empresa.
 
 **Por questões de sigilo não posso revelar detalhadamente (ou utilizar imagens de telas) sobre essa funcionalidade, dado que ela possui papel importante na prevenção de fraudes contra a empresa.**
 {: .notice--primary}
+
+# Desafio enfrentado
+> Como podemos criar um novo processo que **reduza o tempo gasto pelos funcionários do suporte** durante a aprovação da exclusão de contas de usuários do aplicativo Aiqfome?
 
 # Sobre o problema
 Entrevistei alguns funcionários do suporte sobre o funcionamento atual do processo de exclusão, e esses eram os passos necessários até o momento:
