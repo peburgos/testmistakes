@@ -44,7 +44,7 @@ Após a construção da hipótese e posterior validação com o time de suporte,
 
 <figure>
 	<a href="/assets/images/Aiqfome/processoNovo.png"><img src="/assets/images/Aiqfome/processoNovo.png" alt="Captura de tela trazendo um texto sobre as hipóteses, dúvidas e perguntas acerca do tema da entrevista"></a>
-	<figcaption>Passos necessários do **fluxo novo**, clique para aumentar a imagem</figcaption>
+	<figcaption>Passos necessários do fluxo novo, clique para aumentar a imagem</figcaption>
 </figure>
 
 
