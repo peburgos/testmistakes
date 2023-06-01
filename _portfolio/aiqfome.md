@@ -36,7 +36,6 @@ Entrevistei alguns funcionários do suporte sobre o funcionamento atual do proce
 
 # Hipótese
 Com base nas informações levantadas, construímos a seguinte hipótese:
-
 > Considerando que o time de suporte precisa **constantemente acessar o banco de dados para cada uma das solicitações** e comparar informações para decidir sobre a exclusão, não seria **mais rápido já trazer todos os comparativos necessários prontos para ele precise apenas decidir?** 
 
 # Solução
