@@ -42,7 +42,6 @@ timezone: America/Fortaleza	 # https://en.wikipedia.org/wiki/List_of_tz_database
 
 include:
   - _pages
-  - _sass/minimal-mistakes/_base.scss
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
