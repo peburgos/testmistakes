@@ -30,7 +30,7 @@ Entrevistei alguns funcionários do suporte sobre o funcionamento atual do proce
 
 <figure>
 	<a href="/assets/images/Aiqfome/processoAntigo.png"><img src="/assets/images/Aiqfome/processoAntigo.png" alt="Captura de tela trazendo um texto sobre as hipóteses, dúvidas e perguntas acerca do tema da entrevista"></a>
-	<figcaption>Passos necessários do **fluxo antigo**, clique para aumentar a imagem</figcaption>
+	<figcaption>Passos necessários do fluxo antigo, clique para aumentar a imagem</figcaption>
 </figure>
 
 
