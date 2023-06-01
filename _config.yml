@@ -26,6 +26,7 @@ search: false
 
 locale: "pt-BR"
 
+words_per_minute: 150
 breadcrumbs: true
 
 url: https://www.peburgos.github.io
