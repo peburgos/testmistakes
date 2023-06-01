@@ -42,12 +42,12 @@ timezone: America/Fortaleza	 # https://en.wikipedia.org/wiki/List_of_tz_database
 
 include:
   - _pages
+  - _sass/minimal-mistakes/
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
 exclude:
-  - _sass/minimal-mistakes/
 #   - Gemfile.lock
 #   - node_modules
 #   - vendor/bundle/
