@@ -15,7 +15,7 @@ related: false
 categories:
   - portfolio
 ---
-Com base em uma [determinação da Apple](https://developer.apple.com/pt/support/offering-account-deletion-in-your-app/), era **necessário permitir que os usuários do aplicativo Aiqfome excluíssem sua conta de forma automatizada pelo próprio aplicativo**, sem depender do chat para abrir essa solicitação.
+Com base em uma [determinação da Apple](https://developer.apple.com/pt/support/offering-account-deletion-in-your-app/), era **necessário permitir que os usuários do aplicativo Aiqfome excluíssem sua conta de forma automatizada dentro próprio aplicativo**, sem depender de um processo manual para abrir essa solicitação.
 
 Atuando como UX Designer no Aiqfome, fiquei responsável por criar a parte que iria **receber e aprovar as solicitações de exclusão de conta dentro do produto interno** utilizado pelos funcionários de vários setores da empresa.
 
@@ -28,7 +28,13 @@ Atuando como UX Designer no Aiqfome, fiquei responsável por criar a parte que i
 # Sobre o problema
 Entrevistei alguns funcionários do suporte sobre o funcionamento atual do processo de exclusão, e esses eram os passos necessários até o momento:
 
-Usuário entrava em contato exclusão da conta via chat do aplicativo >  Suporte levantava informações existentes sobre o usuário na plataforma interna > Suporte comparava informações com banco de informações sobre fraudadores anteriores > Voltava na plataforma interna para realizar a exclusão
+![[processoAntigo.png]]
+
+<figure>
+	<a href="/assets/images/Aiqfome/processoAntigo.png"><img src="/assets/images/Aiqfome/processoAntigo.png" alt="Captura de tela trazendo um texto sobre as hipóteses, dúvidas e perguntas acerca do tema da entrevista"></a>
+	<figcaption>Passos necessários do fluxo antigo</figcaption>
+</figure>
+
 
 # Hipótese
 Com base nas informações levantadas, construímos a seguinte hipótese:
@@ -38,7 +44,7 @@ Com base nas informações levantadas, construímos a seguinte hipótese:
 # Solução
 Após a construção da hipótese e posterior validação com o time de suporte, **o novo processo de exclusão de contas ficou da seguinte forma:**
 
-Funcionário vê a listagem de solicitações pendentes, com os mais suspeitos destacados > Abre em detalhes uma solicitação, vendo um comparativo automático sobre indícios suspeitos da conta > Aprova ou restringe a solicitação
+![[processoNovo.png]]
 
 A solução criada **dispensa consulta ao banco de dados, pois já traz uma análise automatizada** alertando o suporte sobre os possíveis indícios daquela conta ser um fraudador. Apesar disso, **todo o poder da decisão final continuou nas mãos dos funcionários,** que com apenas dois cliques pode escolher entre restringir ou aprovar a exclusão da conta. 
 
