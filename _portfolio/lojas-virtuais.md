@@ -13,7 +13,6 @@ header:
   image: /assets/images/Bleez/cover.png
   teaser: /assets/images/Bleez/thumb.png
   alt: "Foto do topo de uma mesa preta, em que repousam um lápis, um smartphone, uma borracha e vários post-its com rascunhos"
-  caption: "Crédito da imagem: [**Pixabay**](https://www.pexels.com/pt-br/@pixabay)"
 related: false
 categories:
   - portfolio
