@@ -39,7 +39,6 @@ carrossel-finalizado:
     alt: "Tela com uma listagem de conquistas obtidas, que permite ao usuários ordenar quais serão as quatro primeiras e que serão exibidas no perfil do usuário. Cada item da listagem possui uma medalha de ouro, prata ou bronze, a condição para ser atingida e qual a porcentagem de usuários que conseguiram essa mesma conquista. Possui um botão fixo na parte inferior da tela para confirmar a ação."
 
 ---
-# Visão Geral
 - Desenvolvido como parte de um projeto de curso universitário, o aplicativo tinha como objetivo promover a atividade física por meio da gamificação.
 - Colaborei com os membros da equipe durante a geração e definição de ideias, enquanto outros se concentravam no desenvolvimento do aplicativo.
 - Entrevistei potenciais usuários para entender suas necessidades, identificando a falta de progressão visual e feedback imediato como questões-chave.

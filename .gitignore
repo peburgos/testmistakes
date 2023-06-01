@@ -10,3 +10,4 @@ Gemfile.lock
 .obsidian/themes/Atom/manifest.json
 .obsidian/themes/Atom/theme.css
 .obsidian/workspace.json
+*.afphoto

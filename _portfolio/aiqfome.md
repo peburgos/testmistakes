@@ -48,9 +48,3 @@ A partir da implementação da solução, os **resultados obtidos** pela empresa
 -  Usuários do aplicativo Aiqfome podem solicitar exclusão de suas contas de forma automatizada, **sem precisar interagir com o chat do aplicativo**
 -  **Mais funcionários do suporte** podem realizar o processo de aprovação, já que **não depende mais de permissões** para acessar manualmente o banco de dados
 - 
-
-##
-
-Fluxo novo:
-
-Funcionário  vê a listagem de todas as solicitações pendentes, com os mais suspeitos destacados > Abre em detalhes uma solicitação, vendo um comparativo automático sobre indícios suspeitos da conta > Aprova ou restringe a solicitação
