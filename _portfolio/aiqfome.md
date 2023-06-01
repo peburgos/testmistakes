@@ -36,7 +36,7 @@ Entrevistei alguns funcionários do suporte sobre o funcionamento atual do proce
 
 # Hipótese
 Com base nas informações levantadas, construímos a seguinte hipótese:
-> Considerando que o time de suporte precisa **constantemente acessar o banco de dados para cada uma das solicitações** e comparar informações para decidir sobre a exclusão, não seria **mais rápido já trazer todos os comparativos necessários prontos para ele precise apenas decidir?** 
+> Considerando que o time de suporte precisa **constantemente acessar o banco de dados para cada uma das solicitações** e comparar informações para decidir sobre a exclusão, não seria **mais rápido já trazer todos os comparativos necessários prontos para que ele precise apenas decidir?** 
 
 # Solução
 Após a construção da hipótese e posterior validação com o time de suporte, **o novo processo de exclusão de contas ficou da seguinte forma:**
