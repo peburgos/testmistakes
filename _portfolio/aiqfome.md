@@ -1,6 +1,6 @@
 ---
 title: "Processo de exclusão de contas"
-excerpt: "Usando UX Design para atingir redução de custos em processos operacionais"
+excerpt: "Utilizando UX Design para atingir redução de custos em processos operacionais"
 date: 2023-05-29T10:13:02-05:00
 sidebar:
   - title: "Período"
