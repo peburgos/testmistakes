@@ -28,11 +28,9 @@ Atuando como UX Designer no Aiqfome, fiquei responsável por criar a parte que i
 # Sobre o problema
 Entrevistei alguns funcionários do suporte sobre o funcionamento atual do processo de exclusão, e esses eram os passos necessários até o momento:
 
-![[processoAntigo.png]]
-
 <figure>
 	<a href="/assets/images/Aiqfome/processoAntigo.png"><img src="/assets/images/Aiqfome/processoAntigo.png" alt="Captura de tela trazendo um texto sobre as hipóteses, dúvidas e perguntas acerca do tema da entrevista"></a>
-	<figcaption>Passos necessários do fluxo antigo</figcaption>
+	<figcaption>Passos necessários do **fluxo antigo**, clique para aumentar a imagem</figcaption>
 </figure>
 
 
@@ -44,10 +42,18 @@ Com base nas informações levantadas, construímos a seguinte hipótese:
 # Solução
 Após a construção da hipótese e posterior validação com o time de suporte, **o novo processo de exclusão de contas ficou da seguinte forma:**
 
-![[processoNovo.png]]
+<figure>
+	<a href="/assets/images/Aiqfome/processoNovo.png"><img src="/assets/images/Aiqfome/processoNovo.png" alt="Captura de tela trazendo um texto sobre as hipóteses, dúvidas e perguntas acerca do tema da entrevista"></a>
+	<figcaption>Passos necessários do **fluxo novo**, clique para aumentar a imagem</figcaption>
+</figure>
+
 
 A solução criada **dispensa consulta ao banco de dados, pois já traz uma análise automatizada** alertando o suporte sobre os possíveis indícios daquela conta ser um fraudador. Apesar disso, **todo o poder da decisão final continuou nas mãos dos funcionários,** que com apenas dois cliques pode escolher entre restringir ou aprovar a exclusão da conta. 
 
+<figure>
+	<a href="/assets/images/Aiqfome/comparativoProcesso.png"><img src="/assets/images/Aiqfome/comparativoProcesso.png" alt="Captura de tela trazendo um texto sobre as hipóteses, dúvidas e perguntas acerca do tema da entrevista"></a>
+	<figcaption>Comparativo entre os dois processos, clique para aumentar a imagem</figcaption>
+</figure>
 
 # Resultados
 A partir da implementação da solução, os **resultados obtidos** pela empresa foram:
