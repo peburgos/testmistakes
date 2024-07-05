@@ -2,12 +2,17 @@
 title: "Projetando 24 lojas virtuais em 20 meses"
 excerpt: "Meu processo enquanto parte da Bleez E-Commerce"
 date: 2023-05-30T23:20:02-05:00
-
+sidebar:
+  - title: "Período"
+    text: "2019 até 2021"
+  - title: "Responsabilidades"
+    text: "Concepção e prototipação do layout para as lojas virtuais com base nos dados levantados sobre o comportamento do usuário e no conceito da experiência buscada pela marca do cliente."
 header:
   image: /assets/images/Bleez/cover.png
   teaser: /assets/images/Bleez/thumb.png
   alt: "Foto do topo de uma mesa preta, em que repousam um lápis, um smartphone, uma borracha e vários post-its com rascunhos"
 related: false
+classes: wide
 categories:
   - portfolio
 
