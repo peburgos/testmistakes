@@ -13,6 +13,7 @@ header:
   alt: "Imagem de um desenho de um gramado cartunizado com algumas moitas e árvores ao longe"
   caption: "Crédito da imagem: [**Freepik**](https://Freepik.com)"
 related: false
+classes: wide
 categories:
   - portfolio
 

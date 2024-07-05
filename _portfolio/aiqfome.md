@@ -12,6 +12,7 @@ header:
   teaser: /assets/images/Aiqfome/preview-aiq.png
   alt: "Imagem de um desenho de um gramado cartunizado com algumas moitas e árvores ao longe"
 related: false
+classes: wide
 categories:
   - portfolio
 ---

@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Pedro Burgos
-subtitle: UX | Product | Design | Tecnologia
+# subtitle: UX | Product | Design | Tecnologia
 
 email:
 description: >- # this means to ignore newlines until "baseurl:"
@@ -107,7 +107,7 @@ defaults:
     values:
       layout: single
       read_time: true
-      share: true
+      share: false
 
 atom_feed:
   hide: true

@@ -1,7 +1,3 @@
 main:
   - title: "PORTFOLIO"
     url: /portfolio/
-#  - title: "ENSAIOS E OUTROS TEXTOS"
-#    url: /posts/
-  - title: "SOBRE"
-    url: /about/
